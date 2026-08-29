@@ -1,0 +1,62 @@
+about:
+  description: Write HTML. Render video. Built for agents.
+  license: Apache-2.0
+  homepage: 
+  head: 3dc1856
+  archived: false
+  latestVersion: v0.8.17
+  collectedAt: 2026-08-29T06:59:21Z
+timeline:
+  created: 2026-03-10
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 43012
+  watcher: 121
+  fork: 4134
+  release: 367
+  contributor: 201
+  pullRequest: 904
+  issue: 327
+language:
+  TypeScript: 25456448
+  JavaScript: 2688780
+  Shell: 87791
+  Python: 60138
+  CSS: 28110
+  HCL: 13205
+  Dockerfile: 9429
+totalLine: 28343901
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 45
+    mergedPR: 355
+    openPR: 100
+    closedIssue: 59
+    openIssue: 28
+    commit: 517
+  last90d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 1524
+    openPR: 198
+    closedIssue: 173
+    openIssue: 40
+    commit: 2273
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 2280
+    openPR: 203
+    closedIssue: 285
+    openIssue: 42
+    commit: 3532
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 2280
+    openPR: 203
+    closedIssue: 285
+    openIssue: 42
+    commit: 3532
