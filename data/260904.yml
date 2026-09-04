@@ -1,62 +1,90 @@
 about:
-  description: Write HTML. Render video. Built for agents.
+  description:
+  |
+    Write HTML. Render video. Built for agents.
   license: Apache-2.0
   homepage: 
-  head: 05b57f9
+  head: 62d3304
   archived: false
   latestVersion: v0.8.27
-  collectedAt: 2026-09-04T04:22:28Z
+  collectedAt: 2026-09-04T19:27:32Z
 timeline:
   created: 2026-03-10
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 43873
+  star: 43952
   watcher: 126
-  fork: 4206
+  fork: 4209
   release: 377
-  contributor: 202
-  pullRequest: 921
-  issue: 336
+  contributor: 78
+  pullRequest: 3277
+  issue: 339
 language:
-  TypeScript: 25900769
-  JavaScript: 2721552
+  TypeScript: 25928226
+  JavaScript: 2728208
   Shell: 87791
   Python: 60138
   CSS: 31932
   HCL: 13205
   Dockerfile: 9429
-totalLine: 28824816
+totalBytes: 28858929
 recent:
   last30d:
     since: 2026-08-05
     release: 46
-    mergedPR: 325
-    openPR: 71
-    closedIssue: 60
-    openIssue: 23
-    commit: 352
+    mergedPR: 336
+    openPR: 85
+    closedIssue: 62
+    openIssue: 24
+    commit: 364
+  last60d:
+    since: 2026-07-06
+    release: 100
+    mergedPR: 986
+    openPR: 156
+    closedIssue: 109
+    openIssue: 36
+    commit: 1555
   last90d:
     since: 2026-06-06
     release: 100
-    mergedPR: 1494
-    openPR: 193
-    closedIssue: 174
-    openIssue: 37
-    commit: 2216
+    mergedPR: 1508
+    openPR: 204
+    closedIssue: 176
+    openIssue: 38
+    commit: 2228
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 2327
-    openPR: 203
-    closedIssue: 297
-    openIssue: 39
-    commit: 3576
+    mergedPR: 2341
+    openPR: 214
+    closedIssue: 299
+    openIssue: 40
+    commit: 3588
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 2327
-    openPR: 203
-    closedIssue: 297
-    openIssue: 39
-    commit: 3576
+    mergedPR: 2341
+    openPR: 214
+    closedIssue: 299
+    openIssue: 40
+    commit: 3588
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 2341
+    openPR: 214
+    closedIssue: 299
+    openIssue: 40
+    commit: 4141
+total:
+  release: 377
+  mergedPR: 2342
+  openPR: 214
+  closedIssue: 299
+  openIssue: 40
+  commit: 4141
+---
+---
+
