@@ -36,22 +36,22 @@ Total: **737,931** lines of code across **5086** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 48,833 · **Forks**: 4,467 · **Open issues**: 351 · **Contributors**: 85
+- **Stars**: 48,988 · **Forks**: 4,483 · **Open issues**: 351 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 384 · **Merged PRs**: 2491 · **Open PRs**: 79 · **Closed issues**: 326 · **Open issues**: 25 · **Commits**: 4296
+- **Releases**: 384 · **Merged PRs**: 2491 · **Open PRs**: 88 · **Closed issues**: 326 · **Open issues**: 25 · **Commits**: 4296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 39 | 363 | 78 | 73 | 15 | 386 |
-| last60d | 2026-07-13 | 90 | 902 | 79 | 120 | 22 | 1250 |
-| 90d | 2026-06-13 | 100 | 1543 | 79 | 187 | 24 | 2259 |
-| last180d | 2026-03-15 | 100 | 2489 | 79 | 326 | 25 | 3734 |
-| 360d | 2025-09-16 | 100 | 2490 | 79 | 326 | 25 | 3738 |
-| last720d | 2024-09-21 | 100 | 2490 | 79 | 326 | 25 | 4296 |
+| 30d | 2026-08-12 | 39 | 363 | 87 | 73 | 15 | 386 |
+| last60d | 2026-07-13 | 90 | 902 | 88 | 120 | 22 | 1250 |
+| 90d | 2026-06-13 | 100 | 1543 | 88 | 187 | 24 | 2259 |
+| last180d | 2026-03-15 | 100 | 2489 | 88 | 326 | 25 | 3734 |
+| 360d | 2025-09-16 | 100 | 2490 | 88 | 326 | 25 | 3738 |
+| last720d | 2024-09-21 | 100 | 2490 | 88 | 326 | 25 | 4296 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:32:34Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:28:22Z._
