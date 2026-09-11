@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.34"
   latestRelease: "v0.8.34"
   latestPrerelease: "v0.7.67-alpha.0"
-  collectedAt: 2026-09-11T05:31:17Z
+  collectedAt: 2026-09-11T19:27:17Z
 timeline:
   created: 2026-03-10
   lastCommit: 2026-09-11
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-07-21
 popularity:
-  star: 48833
+  star: 48988
   watcher: 132
-  fork: 4467
+  fork: 4483
   release: 384
   contributor: 85
-  pullRequest: 3488
+  pullRequest: 3497
   issue: 351
 language:
   TypeScript: 26767105
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-12
     release: 39
     mergedPR: 363
-    openPR: 78
+    openPR: 87
     closedIssue: 73
     openIssue: 15
     commit: 386
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-13
     release: 90
     mergedPR: 902
-    openPR: 79
+    openPR: 88
     closedIssue: 120
     openIssue: 22
     commit: 1250
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-13
     release: 100
     mergedPR: 1543
-    openPR: 79
+    openPR: 88
     closedIssue: 187
     openIssue: 24
     commit: 2259
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-15
     release: 100
     mergedPR: 2489
-    openPR: 79
+    openPR: 88
     closedIssue: 326
     openIssue: 25
     commit: 3734
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-16
     release: 100
     mergedPR: 2490
-    openPR: 79
+    openPR: 88
     closedIssue: 326
     openIssue: 25
     commit: 3738
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-21
     release: 100
     mergedPR: 2490
-    openPR: 79
+    openPR: 88
     closedIssue: 326
     openIssue: 25
     commit: 4296
 total:
   release: 384
   mergedPR: 2491
-  openPR: 79
+  openPR: 88
   closedIssue: 326
   openIssue: 25
   commit: 4296
 ---
 path: /home/runner/.x-repo/github.com/heygen-com/hyperframes
-collectedAt: 2026-09-11T05:32:14Z
+collectedAt: 2026-09-11T19:28:13Z
 loc:
   TypeScript:
     code: 468725
