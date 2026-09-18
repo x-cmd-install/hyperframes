@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/390405752",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/390405752/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/390405752/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.45",
-  "id": 390405752,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/390464489",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/390464489/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/390464489/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.46",
+  "id": 390464489,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4XRR54",
-  "tag_name": "v0.8.45",
+  "node_id": "RE_kwDORi26-c4XRgPp",
+  "tag_name": "v0.8.46",
   "target_commitish": "main",
-  "name": "v0.8.45",
+  "name": "v0.8.46",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T02:56:40Z",
-  "updated_at": "2026-09-17T03:00:38Z",
-  "published_at": "2026-09-17T03:00:38Z",
+  "created_at": "2026-09-17T05:48:54Z",
+  "updated_at": "2026-09-17T05:52:44Z",
+  "published_at": "2026-09-17T05:52:44Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.45",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.45",
-  "body": "# HyperFrames v0.8.45\n\nReleased on 2026-09-17.\n\nMotion blur arrives twice in this release, as two separate mechanisms for two different jobs. The catalog component reproduces the After Effects look, while the render engine computes the real shutter integral.\n\n## Features\n\n- **Producer:** `motionBlur` on a render configuration turns on sub-frame multi-sample blur. An empty object takes the defaults: 16 samples per frame, a 180 degree shutter angle and a shutter phase of -90. `samplesPerFrame` accepts up to 64. Setting it forces PNG frame capture, because the samples are averaged pixel by pixel and JPEG samples would be averaged after a lossy step. Whether a render captures lossless frames now has one owner instead of being decided in three places from a different fact ([b64a7a3a6](https://github.com/heygen-com/hyperframes/commit/b64a7a3a67ae1f5c22915a88938853169eb3cea2), [#4020](https://github.com/heygen-com/hyperframes/pull/4020)).\n- **Engine:** Each output frame can be the average of several captures taken across the shutter window. Because each sample re-renders the page, this integrates whatever the composition actually does inside the window: rotation, scale, opacity, filters and child animation, not translation alone. It is off unless asked for, and a static frame still costs one capture ([0a1c6f5a4](https://github.com/heygen-com/hyperframes/commit/0a1c6f5a457ca1345d6b8ccede04769a0e009719), [#4019](https://github.com/heygen-com/hyperframes/pull/4019)).\n- **Producer and CLI:** A render can output an HLS VOD package. It is the same H.264 and AAC encode as MP4, copied into MPEG-TS segments with playlists, and every segment starts on a keyframe ([462f9db73](https://github.com/heygen-com/hyperframes/commit/462f9db73dc0951a112a057416d03effb2fcf1a0), [#4014](https://github.com/heygen-com/hyperframes/pull/4014), [e4b1832fa](https://github.com/heygen-com/hyperframes/commit/e4b1832fadd4c063bcf9a19cd351684815fbc23e), [#4022](https://github.com/heygen-com/hyperframes/pull/4022)).\n- **Telemetry:** `render_complete` and `render_error` carry more about the render they describe: the requested output shape, which deterministic adapters the composition exercised, counts of audio, image, sub-composition, audio group and color grading elements, whether a LUT is present, and the browser and FFmpeg major versions. Every value comes from work the render already did, so nothing new runs. A Docker render reports no tool versions, because its preflight happens inside the container ([71bb88719](https://github.com/heygen-com/hyperframes/commit/71bb88719e10ab7002dafd61478d2c84c255ba42), [#4017](https://github.com/heygen-com/hyperframes/pull/4017)).\n\n## Fixes\n\n- **Engine:** A frame that repeats its predecessor is reused instead of re-rendered, and with motion blur on that check ignored the shutter window. A still frame next to a moving one reused a buffer carrying none of that motion. The reuse now requires the whole window to be still. The guard's contract comes from [#4013](https://github.com/heygen-com/hyperframes/pull/4013) by Dante-dan ([9117b3647](https://github.com/heygen-com/hyperframes/commit/9117b364710444432504b98bfbb5543e381d956d), [#4025](https://github.com/heygen-com/hyperframes/pull/4025)).\n- **Producer:** Asking for motion blur on the layered compositor route returned frames with no blur and no error. It now fails with a named error that says which route refused and why, instead of a render that looks finished and is not. The route is taken for HDR content and for shader transitions, and the message names both rather than blaming HDR for a composition that has none. \"Does this capture route support motion blur\" has one owner, keyed to the capture plan's own kind, so a new route cannot inherit silence. The explicit unsupported-mode error is the design in [#4013](https://github.com/heygen-com/hyperframes/pull/4013) by Dante-dan ([77a45f608](https://github.com/heygen-com/hyperframes/commit/77a45f6080daedd12ab67a3d1c9d165b8ae003b3), [#4026](https://github.com/heygen-com/hyperframes/pull/4026)).\n\n## Catalog\n\n- **Registry:** The `motion-blur` component now follows the After Effects shutter model instead of a row of hard copies. Measured against a real After Effects export over 72 frames, the match improved from 24.19 dB to 32.51 dB on average, and the worst frame from 17.07 dB to 27.57 dB ([9aa60a844](https://github.com/heygen-com/hyperframes/commit/9aa60a844fa645ef92949cf6025ddbb634a97e63), [#4008](https://github.com/heygen-com/hyperframes/pull/4008)).\n\n## Choosing a motion blur, and what each one costs\n\nThe catalog component and the engine path do different things. Applying both blurs the same motion twice.\n\n- The catalog component is cheap, blurs translation only, and deliberately reproduces the After Effects look, which composites a sharp copy over the smear.\n- The engine path blurs any animated property and computes the shutter integral, which is what a real camera shutter does. Peak opacity therefore drops during fast motion rather than staying anchored to a sharp core. That is the correct answer for a shutter and a different picture from the component.\n- The engine path costs one capture per sample. At 16 samples a 1080p frame spends roughly 600 ms in the blend on top of the 16 captures, so a slow render is expected rather than stuck.\n\n## Known limits of the engine path\n\n- A video's own motion does not blur. Injected video frames are extracted once per output frame, so a sub-frame seek does not move them. A render that injects video frames refuses rather than pretending.\n- Capture modes other than screenshot are refused with a named error, as is the layered compositor route.\n- Frames are captured as PNG for the whole render.\n- A shutter that is both wide and not centered, meaning `shutterPhase + shutterAngle` above 360, seeks past the end of the composition on the last frames. No default or documented configuration reaches it and the behaviour there is unproven.\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.44...v0.8.45\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.46",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.46",
+  "body": "# HyperFrames v0.8.46\n\nReleased on 2026-09-17.\n\nEngine motion blur picks its own sample count per frame now, instead of one fixed count for a whole render.\n\n## Features\n\n- **Engine:** The sub-frame motion blur added in v0.8.45 used a fixed sample count for every frame of a render (16 by default). That undersamples fast or hard-edged motion and oversamples content that barely moves. The engine now measures how much a frame actually moved before choosing how many samples it gets, between 16 and 64, so quality goes up where it was undersampled instead of being spent evenly on every frame. Frames that need the extra accuracy cost more to render; a frame whose only change is a fade or a colour shift skips the measurement step and stays at the old cost. Nothing changes if `samplesPerFrame` is set explicitly ([2ab7b8686](https://github.com/heygen-com/hyperframes/commit/2ab7b8686870cb435674e20d48b4100db2fa2052), [#4031](https://github.com/heygen-com/hyperframes/pull/4031)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.45...v0.8.46\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/390464489/reactions",
+    "total_count": 3,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  }
 }
