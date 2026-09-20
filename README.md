@@ -4,7 +4,7 @@
 
 Write HTML. Render video. Built for agents.
 
-![hyperframes](https://repo.x-cmd.io/hyperframes.svg)
+[![x-cmd/install — hyperframes Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hyperframes.svg)](https://x-cmd.com/install/hyperframes)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install hyperframes
 
 ## Code insight
 
-Total: **747,641** lines of code across **5125** files in the top 5 languages.
+Total: **888,772** lines of code across **5439** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 477,933 | 74,965 | 52,834 | 2445 |
-| Tsx | 82,499 | 7,061 | 6,415 | 392 |
-| JavaScript | 58,953 | 6,275 | 3,717 | 301 |
-| Html | 57,903 | 11,222 | 2,631 | 949 |
-| Json | 56,338 | 0 | 46 | 1038 |
+| TypeScript | 506,070 | 77,120 | 54,841 | 2618 |
+| JavaScript | 162,615 | 7,512 | 4,668 | 331 |
+| Tsx | 86,326 | 7,451 | 7,055 | 420 |
+| Html | 58,418 | 11,185 | 2,639 | 994 |
+| Json | 58,385 | 0 | 49 | 1076 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **747,641** lines of code across **5125** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.46` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `v0.8.54` (2026-09-20)
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 51,109 · **Forks**: 4,659 · **Open issues**: 373 · **Contributors**: 88
+- **Stars**: 51,703 · **Forks**: 4,714 · **Open issues**: 375 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 396 · **Merged PRs**: 2554 · **Open PRs**: 145 · **Closed issues**: 340 · **Open issues**: 33 · **Commits**: 4363
+- **Releases**: 405 · **Merged PRs**: 2681 · **Open PRs**: 159 · **Closed issues**: 340 · **Open issues**: 35 · **Commits**: 4556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 43 | 353 | 142 | 61 | 25 | 384 |
-| last60d | 2026-07-20 | 93 | 791 | 145 | 119 | 31 | 1098 |
-| 90d | 2026-06-20 | 100 | 1463 | 145 | 190 | 32 | 2157 |
-| last180d | 2026-03-22 | 100 | 2551 | 145 | 340 | 33 | 3775 |
-| 360d | 2025-09-23 | 100 | 2553 | 145 | 340 | 33 | 3805 |
-| last720d | 2024-09-28 | 100 | 2553 | 145 | 340 | 33 | 4363 |
+| 30d | 2026-08-21 | 50 | 452 | 156 | 47 | 27 | 458 |
+| last60d | 2026-07-22 | 98 | 874 | 159 | 118 | 33 | 1044 |
+| 90d | 2026-06-22 | 100 | 1567 | 159 | 178 | 34 | 2208 |
+| last180d | 2026-03-24 | 100 | 2653 | 159 | 340 | 35 | 3831 |
+| 360d | 2025-09-25 | 100 | 2680 | 159 | 340 | 35 | 3983 |
+| last720d | 2024-09-30 | 100 | 2680 | 159 | 340 | 35 | 4556 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:33:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:39:32Z._
