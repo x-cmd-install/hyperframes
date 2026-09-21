@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/392311028",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/392311028/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/392311028/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.54",
-  "id": 392311028,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/392674251",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/392674251/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/392674251/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.58",
+  "id": 392674251,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4XYjD0",
-  "tag_name": "v0.8.54",
+  "node_id": "RE_kwDORi26-c4XZ7vL",
+  "tag_name": "v0.8.58",
   "target_commitish": "main",
-  "name": "v0.8.54",
+  "name": "v0.8.58",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-20T04:22:52Z",
-  "updated_at": "2026-09-20T04:27:07Z",
-  "published_at": "2026-09-20T04:27:07Z",
+  "created_at": "2026-09-21T03:14:03Z",
+  "updated_at": "2026-09-21T03:18:25Z",
+  "published_at": "2026-09-21T03:18:25Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.54",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.54",
-  "body": "# HyperFrames v0.8.54\n\nReleased on 2026-09-20.\n\nStudio can now edit timelines when hosted outside the main editor shell. Host apps can reuse this editing flow without wrapping it in the full editor.\n\n## Features\n\n- **Studio:** Export timeline editing for a host outside EditorShell ([5262062e7](https://github.com/heygen-com/hyperframes/commit/5262062e7be20b26a7c1a4ce4be2ec3831f151d6), [#4201](https://github.com/heygen-com/hyperframes/pull/4201)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.53...v0.8.54\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.58",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.58",
+  "body": "# HyperFrames v0.8.58\n\nReleased on 2026-09-21.\n\nStudio now reports a failed file read as a network problem instead of blaming the composition, which is how the largest remaining editing failure went unnamed. The CLI gains timeline editing verbs, and Studio can hand its player to a host app.\n\n## Features\n\n- **CLI:** Add timeline editing verbs ([f92d017b9](https://github.com/heygen-com/hyperframes/commit/f92d017b999d26b14c49a8439dc16d2e476bffde), [#4221](https://github.com/heygen-com/hyperframes/pull/4221)).\n- **Studio:** Export player handle for hosts ([4ff4435e1](https://github.com/heygen-com/hyperframes/commit/4ff4435e1d46f16ae1f10a19109cd7824b9ae775), [#4227](https://github.com/heygen-com/hyperframes/pull/4227)).\n\n## Fixes\n\n- **Studio:** Report a rejected read as a network reason, not an open failure ([5a8ee663f](https://github.com/heygen-com/hyperframes/commit/5a8ee663f7fe98d71d72a0ccfba3d88662c1d652), [#4240](https://github.com/heygen-com/hyperframes/pull/4240)).\n- **Studio:** Keep narrow timeline headers readable ([b4787082b](https://github.com/heygen-com/hyperframes/commit/b4787082b272dfcdeabcc87ac9160053fffcbd15), [#4232](https://github.com/heygen-com/hyperframes/pull/4232)).\n- **CLI:** Update Puppeteer browser dependencies ([e86a530f0](https://github.com/heygen-com/hyperframes/commit/e86a530f0b29ac2bca949fd89beade2ef13e50e6), [#4233](https://github.com/heygen-com/hyperframes/pull/4233)).\n\n## Catalog\n\n- **Docs:** Restore the sidebar gutter on catalog pages ([c09594fef](https://github.com/heygen-com/hyperframes/commit/c09594fef848240894b585d9cf6630919a6c443e), [#4238](https://github.com/heygen-com/hyperframes/pull/4238)).\n\n## Internal\n\n- **Studio:** Close shadow reload regression gaps ([2fb6f6987](https://github.com/heygen-com/hyperframes/commit/2fb6f6987ecdefdfd88750026231d454546090d1), [#4223](https://github.com/heygen-com/hyperframes/pull/4223)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.57...v0.8.58\n"
 }
