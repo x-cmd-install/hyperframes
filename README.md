@@ -14,15 +14,15 @@ x install hyperframes
 
 ## Code insight
 
-Total: **888,772** lines of code across **5439** files in the top 5 languages.
+Total: **894,082** lines of code across **5477** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 506,070 | 77,120 | 54,841 | 2618 |
-| JavaScript | 162,615 | 7,512 | 4,668 | 331 |
-| Tsx | 86,326 | 7,451 | 7,055 | 420 |
+| TypeScript | 509,371 | 77,337 | 55,154 | 2643 |
+| JavaScript | 162,623 | 7,512 | 4,668 | 331 |
+| Tsx | 88,273 | 7,569 | 7,273 | 433 |
 | Html | 58,418 | 11,185 | 2,639 | 994 |
-| Json | 58,385 | 0 | 49 | 1076 |
+| Json | 58,401 | 0 | 49 | 1076 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **888,772** lines of code across **5439** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.54` (2026-09-20)
-- **Last commit**: 2026-09-20
+- **Latest**: `v0.8.58` (2026-09-21)
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 51,703 · **Forks**: 4,714 · **Open issues**: 375 · **Contributors**: 88
+- **Stars**: 52,003 · **Forks**: 4,739 · **Open issues**: 375 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 405 · **Merged PRs**: 2681 · **Open PRs**: 159 · **Closed issues**: 340 · **Open issues**: 35 · **Commits**: 4556
+- **Releases**: 409 · **Merged PRs**: 2705 · **Open PRs**: 161 · **Closed issues**: 341 · **Open issues**: 34 · **Commits**: 4580
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 50 | 452 | 156 | 47 | 27 | 458 |
-| last60d | 2026-07-22 | 98 | 874 | 159 | 118 | 33 | 1044 |
-| 90d | 2026-06-22 | 100 | 1567 | 159 | 178 | 34 | 2208 |
-| last180d | 2026-03-24 | 100 | 2653 | 159 | 340 | 35 | 3831 |
-| 360d | 2025-09-25 | 100 | 2680 | 159 | 340 | 35 | 3983 |
-| last720d | 2024-09-30 | 100 | 2680 | 159 | 340 | 35 | 4556 |
+| 30d | 2026-08-22 | 52 | 463 | 158 | 45 | 26 | 482 |
+| last60d | 2026-07-23 | 100 | 891 | 161 | 118 | 32 | 1068 |
+| 90d | 2026-06-23 | 100 | 1575 | 161 | 176 | 33 | 2232 |
+| last180d | 2026-03-25 | 100 | 2670 | 161 | 341 | 34 | 3855 |
+| 360d | 2025-09-26 | 100 | 2704 | 161 | 341 | 34 | 4007 |
+| last720d | 2024-10-01 | 100 | 2704 | 161 | 341 | 34 | 4580 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:39:32Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:39:47Z._
