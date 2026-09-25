@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/395248931",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/395248931/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/395248931/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.70",
-  "id": 395248931,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/396240481",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/396240481/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/396240481/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.75",
+  "id": 396240481,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4XjwUj",
-  "tag_name": "v0.8.70",
+  "node_id": "RE_kwDORi26-c4XniZh",
+  "tag_name": "v0.8.75",
   "target_commitish": "main",
-  "name": "v0.8.70",
+  "name": "v0.8.75",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-24T02:10:27Z",
-  "updated_at": "2026-09-24T02:15:33Z",
-  "published_at": "2026-09-24T02:15:33Z",
+  "created_at": "2026-09-25T02:33:47Z",
+  "updated_at": "2026-09-25T02:37:38Z",
+  "published_at": "2026-09-25T02:37:38Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.70",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.70",
-  "body": "# HyperFrames v0.8.70\n\nReleased on 2026-09-24.\n\nFilms whose animations run past the narration now report their real length, so players show the right total. Media skills gain Gemini voices, layout checks catch more hidden text, and Studio shows a film's first frame sooner.\n\n## Features\n\n- Add Gemini TTS models and service-account auth to media skills ([01601d110](https://github.com/heygen-com/hyperframes/commit/01601d110569967adbfe998e81f77bdeec4b1f2d), [#4377](https://github.com/heygen-com/hyperframes/pull/4377)).\n\n## Fixes\n\n- **Layout:** Flag nowrap text that still sticks out of a container that does not clip ([549a2f51b](https://github.com/heygen-com/hyperframes/commit/549a2f51bb268b6af3e56e2f3f9ab305185bd3b5), [#4379](https://github.com/heygen-com/hyperframes/pull/4379)).\n- **Layout:** Keep covered text flagged when the occlusion waiver is on a wrapper ([625bdd66f](https://github.com/heygen-com/hyperframes/commit/625bdd66fa0b017dc93de0c2098d0f2d0e1cf1bf), [#4380](https://github.com/heygen-com/hyperframes/pull/4380)).\n- **Core:** The runtime never reports a film's length as Infinity ([c6913aabe](https://github.com/heygen-com/hyperframes/commit/c6913aabe26c985111769716539c6b9a8508d831), [#4372](https://github.com/heygen-com/hyperframes/pull/4372)).\n\n## Performance\n\n- **Studio:** Show a film's first frame sooner by loading preview assets by URL ([86fa10ced](https://github.com/heygen-com/hyperframes/commit/86fa10ced4297bfd9f4fe67b6767afae7a07fd3c), [#4357](https://github.com/heygen-com/hyperframes/pull/4357)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.69...v0.8.70\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.75",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.75",
+  "body": "# HyperFrames v0.8.75\n\nReleased on 2026-09-25.\n\nA composition's scripts can now load their own files, and preview keeps a history of every project change. In Studio, a reload keeps a playing film playing, deleted clips leave the timeline at once, and `catalog --json` now includes preview videos.\n\n## Features\n\n- **Core:** A composition's script can load its own files with \\_\\_hyperframes.assetUrl ([b8dd023a97](https://github.com/heygen-com/hyperframes/commit/b8dd023a97bf6e960601258db154ca3ab1fc7437), [#4434](https://github.com/heygen-com/hyperframes/pull/4434)).\n- **CLI:** Preview keeps project history, and Studio can claim its own edits ([177464b4c1](https://github.com/heygen-com/hyperframes/commit/177464b4c148a5091ccd745ca16d69d9bedd53f6), [#4437](https://github.com/heygen-com/hyperframes/pull/4437)).\n\n## Fixes\n\n- **Studio:** A playhead scrolled off to the left no longer draws over the track names ([225c22b6b9](https://github.com/heygen-com/hyperframes/commit/225c22b6b981ba2688efbd5e4b03e4d9623b81bf), [#4436](https://github.com/heygen-com/hyperframes/pull/4436)).\n- **Studio:** A deleted clip leaves the timeline as soon as the file drops it ([65a266b29d](https://github.com/heygen-com/hyperframes/commit/65a266b29d475336b1c928499229b814e4d003e9), [#4447](https://github.com/heygen-com/hyperframes/pull/4447)).\n- **Studio:** A preview reload keeps a playing film playing where it was ([2fe37e3406](https://github.com/heygen-com/hyperframes/commit/2fe37e3406fa079a02f6e3d1e5119bedb9ef584c), [#4438](https://github.com/heygen-com/hyperframes/pull/4438)).\n- **CLI:** The block snippet from add carries the block's own composition id ([359106aa3a](https://github.com/heygen-com/hyperframes/commit/359106aa3af028382d08f2ef40bce58b4ea4a209), [#4432](https://github.com/heygen-com/hyperframes/pull/4432)).\n\n## Catalog\n\n- **CLI:** Catalog --json carries each item's preview video and poster ([8af615a48e](https://github.com/heygen-com/hyperframes/commit/8af615a48e713ca4dba7ef792ccffe2afd13fc78), [#4443](https://github.com/heygen-com/hyperframes/pull/4443)).\n\n## Internal\n\n- Skip Windows runs for player and Studio UI-only changes ([1f0cfa7c3e](https://github.com/heygen-com/hyperframes/commit/1f0cfa7c3ebecb90486ec5b9edea575ab3c8b258), [#4442](https://github.com/heygen-com/hyperframes/pull/4442)).\n- Grade the comments each PR touches ([3194c2ae87](https://github.com/heygen-com/hyperframes/commit/3194c2ae8725a729a3a4a90b7d2e254df4aef7d8), [#4444](https://github.com/heygen-com/hyperframes/pull/4444)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.74...v0.8.75\n"
 }
