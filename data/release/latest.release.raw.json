@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/396240481",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/396240481/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/396240481/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.75",
-  "id": 396240481,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/397052828",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/397052828/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/397052828/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.78",
+  "id": 397052828,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4XniZh",
-  "tag_name": "v0.8.75",
+  "node_id": "RE_kwDORi26-c4Xqouc",
+  "tag_name": "v0.8.78",
   "target_commitish": "main",
-  "name": "v0.8.75",
+  "name": "v0.8.78",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-25T02:33:47Z",
-  "updated_at": "2026-09-25T02:37:38Z",
-  "published_at": "2026-09-25T02:37:38Z",
+  "created_at": "2026-09-26T02:58:59Z",
+  "updated_at": "2026-09-26T03:03:19Z",
+  "published_at": "2026-09-26T03:03:19Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.75",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.75",
-  "body": "# HyperFrames v0.8.75\n\nReleased on 2026-09-25.\n\nA composition's scripts can now load their own files, and preview keeps a history of every project change. In Studio, a reload keeps a playing film playing, deleted clips leave the timeline at once, and `catalog --json` now includes preview videos.\n\n## Features\n\n- **Core:** A composition's script can load its own files with \\_\\_hyperframes.assetUrl ([b8dd023a97](https://github.com/heygen-com/hyperframes/commit/b8dd023a97bf6e960601258db154ca3ab1fc7437), [#4434](https://github.com/heygen-com/hyperframes/pull/4434)).\n- **CLI:** Preview keeps project history, and Studio can claim its own edits ([177464b4c1](https://github.com/heygen-com/hyperframes/commit/177464b4c148a5091ccd745ca16d69d9bedd53f6), [#4437](https://github.com/heygen-com/hyperframes/pull/4437)).\n\n## Fixes\n\n- **Studio:** A playhead scrolled off to the left no longer draws over the track names ([225c22b6b9](https://github.com/heygen-com/hyperframes/commit/225c22b6b981ba2688efbd5e4b03e4d9623b81bf), [#4436](https://github.com/heygen-com/hyperframes/pull/4436)).\n- **Studio:** A deleted clip leaves the timeline as soon as the file drops it ([65a266b29d](https://github.com/heygen-com/hyperframes/commit/65a266b29d475336b1c928499229b814e4d003e9), [#4447](https://github.com/heygen-com/hyperframes/pull/4447)).\n- **Studio:** A preview reload keeps a playing film playing where it was ([2fe37e3406](https://github.com/heygen-com/hyperframes/commit/2fe37e3406fa079a02f6e3d1e5119bedb9ef584c), [#4438](https://github.com/heygen-com/hyperframes/pull/4438)).\n- **CLI:** The block snippet from add carries the block's own composition id ([359106aa3a](https://github.com/heygen-com/hyperframes/commit/359106aa3af028382d08f2ef40bce58b4ea4a209), [#4432](https://github.com/heygen-com/hyperframes/pull/4432)).\n\n## Catalog\n\n- **CLI:** Catalog --json carries each item's preview video and poster ([8af615a48e](https://github.com/heygen-com/hyperframes/commit/8af615a48e713ca4dba7ef792ccffe2afd13fc78), [#4443](https://github.com/heygen-com/hyperframes/pull/4443)).\n\n## Internal\n\n- Skip Windows runs for player and Studio UI-only changes ([1f0cfa7c3e](https://github.com/heygen-com/hyperframes/commit/1f0cfa7c3ebecb90486ec5b9edea575ab3c8b258), [#4442](https://github.com/heygen-com/hyperframes/pull/4442)).\n- Grade the comments each PR touches ([3194c2ae87](https://github.com/heygen-com/hyperframes/commit/3194c2ae8725a729a3a4a90b7d2e254df4aef7d8), [#4444](https://github.com/heygen-com/hyperframes/pull/4444)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.74...v0.8.75\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.78",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.78",
+  "body": "# HyperFrames v0.8.78\n\nReleased on 2026-09-26.\n\nThe player now reports its picture size and can turn off click-to-play, and `hyperframes history` lists, undoes and restores a project's changes. The CLI uses a pinned onnxruntime-node installed next to it, and renders with shader transitions now match the preview.\n\n## Features\n\n- **Player:** Expose picture size, durationchange and a click-to-play opt-out ([4ef2fc3f1](https://github.com/heygen-com/hyperframes/commit/4ef2fc3f1e3cc44b883124725d15df1c2d3720ee), [#4505](https://github.com/heygen-com/hyperframes/pull/4505)).\n- **Shader Transitions:** Add playSeamTransitionLoop to preview a seam on a loop ([0f528ff2e](https://github.com/heygen-com/hyperframes/commit/0f528ff2e8cdc44febedc93f7e68a07a49395936), [#4307](https://github.com/heygen-com/hyperframes/pull/4307)).\n- **CLI:** The `hyperframes history` command lists, undoes and restores a project's recorded changes ([2734ee2c0](https://github.com/heygen-com/hyperframes/commit/2734ee2c02ef858f3c877c18b56ebcfbb846cb4c), [#4449](https://github.com/heygen-com/hyperframes/pull/4449)).\n\n## Fixes\n\n- **CLI:** Use onnxruntime-node installed beside the CLI when it is the pinned version ([2be82f009](https://github.com/heygen-com/hyperframes/commit/2be82f00999569e2e2d462a9f3eab57bd36d371e), [#4507](https://github.com/heygen-com/hyperframes/pull/4507)).\n- **Shader Transitions:** The render leaves scene visibility to the runtime ([5145a136a](https://github.com/heygen-com/hyperframes/commit/5145a136a00169f900c1dc4bb6dfbfab1398c131), [#4509](https://github.com/heygen-com/hyperframes/pull/4509)).\n- **Telemetry:** Honor CLI opt-out in Studio and render CI ([edb3747c4](https://github.com/heygen-com/hyperframes/commit/edb3747c4c987f2a20738ad67d2b7f8622f7bf56), [#4500](https://github.com/heygen-com/hyperframes/pull/4500)).\n- **Core:** Report one composition size in stage-size and timeline messages ([77b2260f2](https://github.com/heygen-com/hyperframes/commit/77b2260f2be5693b6d0d941f13e8628fbb576eb1), [#4496](https://github.com/heygen-com/hyperframes/pull/4496)).\n- **Core:** A clip gets its own inline display back when the runtime shows it ([02147b8d1](https://github.com/heygen-com/hyperframes/commit/02147b8d152ffaccc5357a48f1f87e4569792f70), [#4498](https://github.com/heygen-com/hyperframes/pull/4498)).\n- **CLI:** Timeline ids never writes over a save that lands while it stamps ([3746c9821](https://github.com/heygen-com/hyperframes/commit/3746c9821af66dde5a28a2738bb2b778b156c5dd), [#4494](https://github.com/heygen-com/hyperframes/pull/4494)).\n- **Core:** A clip that starts later keeps the place and size its CSS gives it ([aadeaf9dd](https://github.com/heygen-com/hyperframes/commit/aadeaf9ddd28822ff88ef002dcd0c465fffe714f), [#4495](https://github.com/heygen-com/hyperframes/pull/4495)).\n- **Studio Server:** Stamping ids at open never reverts a write that lands meanwhile ([b2a449df8](https://github.com/heygen-com/hyperframes/commit/b2a449df8e21e3b6dea650569d9464b537aa8035), [#4491](https://github.com/heygen-com/hyperframes/pull/4491)).\n- **Core:** A frame capture keeps waiting for a video between its range requests ([e266ad5e5](https://github.com/heygen-com/hyperframes/commit/e266ad5e5c42e71871c2e02345e2e93ea26d2251), [#4490](https://github.com/heygen-com/hyperframes/pull/4490)).\n\n## Internal\n\n- Stop running CodeQL on merge queue groups, where its upload races the merge ([fbaa9f920](https://github.com/heygen-com/hyperframes/commit/fbaa9f9205fca0107d3451a740556d97aa4bdf8d), [#4492](https://github.com/heygen-com/hyperframes/pull/4492)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.77...v0.8.78\n"
 }
