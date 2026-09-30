@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/398779379",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/398779379/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/398779379/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.90",
-  "id": 398779379,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/399746716",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/399746716/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/399746716/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.96",
+  "id": 399746716,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4XxOPz",
-  "tag_name": "v0.8.90",
+  "node_id": "RE_kwDORi26-c4X06ac",
+  "tag_name": "v0.8.96",
   "target_commitish": "main",
-  "name": "v0.8.90",
+  "name": "v0.8.96",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-29T02:29:59Z",
-  "updated_at": "2026-09-29T02:36:05Z",
-  "published_at": "2026-09-29T02:36:02Z",
+  "created_at": "2026-09-30T05:17:09Z",
+  "updated_at": "2026-09-30T05:36:31Z",
+  "published_at": "2026-09-30T05:36:28Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/597041733",
-      "id": 597041733,
-      "node_id": "RA_kwDORi26-c4jliJF",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/600129234",
+      "id": 600129234,
+      "node_id": "RA_kwDORi26-c4jxT7S",
       "name": "hyperframes-agent-plugin.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 725,
-      "digest": "sha256:ae91c32f975464c4464358134e71f1a4bd9d1eadea37e3411b527e14e9f9e728",
-      "download_count": 3,
-      "created_at": "2026-09-29T02:36:04Z",
-      "updated_at": "2026-09-29T02:36:04Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.90/hyperframes-agent-plugin.json"
+      "digest": "sha256:b2ac8148fed42afef7c875382af668985fd16b4568c776fdfa360ac37b555cbd",
+      "download_count": 2,
+      "created_at": "2026-09-30T05:36:30Z",
+      "updated_at": "2026-09-30T05:36:30Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.96/hyperframes-agent-plugin.json"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/597041737",
-      "id": 597041737,
-      "node_id": "RA_kwDORi26-c4jliJJ",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/600129227",
+      "id": 600129227,
+      "node_id": "RA_kwDORi26-c4jxT7L",
       "name": "hyperframes-agent-plugin.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 95,
-      "digest": "sha256:f54a72b262dac76d96bed66063b2bedf5bb1c758e24a9d4be9e2c94230cf7101",
-      "download_count": 5,
-      "created_at": "2026-09-29T02:36:04Z",
-      "updated_at": "2026-09-29T02:36:04Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.90/hyperframes-agent-plugin.sha256"
+      "digest": "sha256:8a4402547e4b45a1cb4653d20ec960ccee98ba90ac06b73107b7dd22aa43202d",
+      "download_count": 2,
+      "created_at": "2026-09-30T05:36:30Z",
+      "updated_at": "2026-09-30T05:36:30Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.96/hyperframes-agent-plugin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/597041738",
-      "id": 597041738,
-      "node_id": "RA_kwDORi26-c4jliJK",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/600129228",
+      "id": 600129228,
+      "node_id": "RA_kwDORi26-c4jxT7M",
       "name": "hyperframes-agent-plugin.zip",
       "label": "",
       "uploader": {
@@ -137,15 +137,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 11870307,
-      "digest": "sha256:841220bee63e514f6832a5da89437de8a33cc0b6765a18bcf3273e491c44158e",
-      "download_count": 7,
-      "created_at": "2026-09-29T02:36:04Z",
-      "updated_at": "2026-09-29T02:36:05Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.90/hyperframes-agent-plugin.zip"
+      "size": 11870311,
+      "digest": "sha256:9378cfde0f94565c24c1994a576b86f1332ff0dcd25331163d371a549cb60b85",
+      "download_count": 2,
+      "created_at": "2026-09-30T05:36:30Z",
+      "updated_at": "2026-09-30T05:36:31Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.96/hyperframes-agent-plugin.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.90",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.90",
-  "body": "# HyperFrames v0.8.90\n\nReleased on 2026-09-29.\n\nUndo and redo in Studio update the preview in place instead of reloading it. Clicking an element in the preview selects it faster, without restyling the whole film.\n\n## Fixes\n\n- **Studio:** Undo and redo update the preview in place instead of reloading it ([9e1dbca7a](https://github.com/heygen-com/hyperframes/commit/9e1dbca7a2c2ea7486852efe737b606f86dd4e32), [#4718](https://github.com/heygen-com/hyperframes/pull/4718)).\n\n## Performance\n\n- **Studio:** Clicking an element in the preview selects it without restyling the whole film ([1bede4742](https://github.com/heygen-com/hyperframes/commit/1bede4742a502cf8f6dfaccfafa3f7ef01f12299), [#4707](https://github.com/heygen-com/hyperframes/pull/4707)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.89...v0.8.90\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.96",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.96",
+  "body": "# HyperFrames v0.8.96\n\nReleased on 2026-09-30.\n\nTwo Studio editing fixes. An element placed with a stylesheet translate no longer jumps when you move or resize it, and a crop drag that ends where it started no longer adds an undo step.\n\n## Fixes\n\n- **Studio:** A crop drag that ends where it started saves nothing ([67327a8b2](https://github.com/heygen-com/hyperframes/commit/67327a8b25a4502b7c29571505be9c575c675ea2), [#4745](https://github.com/heygen-com/hyperframes/pull/4745)).\n- **Studio:** An element placed by a stylesheet translate stays put after a move or resize ([4825f7929](https://github.com/heygen-com/hyperframes/commit/4825f792949282d561cdfe32cdcc7fce1cf2605d), [#4734](https://github.com/heygen-com/hyperframes/pull/4734)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.95...v0.8.96\n"
 }
