@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/401561748",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/401561748/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/401561748/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.108",
-  "id": 401561748,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/402237657",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/402237657/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/402237657/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.114",
+  "id": 402237657,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4X71iU",
-  "tag_name": "v0.8.108",
+  "node_id": "RE_kwDORi26-c4X-ajZ",
+  "tag_name": "v0.8.114",
   "target_commitish": "main",
-  "name": "v0.8.108",
+  "name": "v0.8.114",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-02T05:21:29Z",
-  "updated_at": "2026-10-02T05:27:31Z",
-  "published_at": "2026-10-02T05:27:29Z",
+  "created_at": "2026-10-03T00:14:16Z",
+  "updated_at": "2026-10-03T00:18:59Z",
+  "published_at": "2026-10-03T00:18:57Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/604878891",
-      "id": 604878891,
-      "node_id": "RA_kwDORi26-c4kDbgr",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/606772407",
+      "id": 606772407,
+      "node_id": "RA_kwDORi26-c4kKpy3",
       "name": "hyperframes-agent-plugin.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 726,
-      "digest": "sha256:b241b96f91273bca49b10d967f89ba615767c944e40c440e8b07dd5102179672",
-      "download_count": 1,
-      "created_at": "2026-10-02T05:27:30Z",
-      "updated_at": "2026-10-02T05:27:30Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.108/hyperframes-agent-plugin.json"
+      "digest": "sha256:d7d15398d8e15e866fdabc9553dc2a4fb0ed45277779ca6f7196ce46c9a7828d",
+      "download_count": 14,
+      "created_at": "2026-10-03T00:18:58Z",
+      "updated_at": "2026-10-03T00:18:58Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.json"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/604878890",
-      "id": 604878890,
-      "node_id": "RA_kwDORi26-c4kDbgq",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/606772406",
+      "id": 606772406,
+      "node_id": "RA_kwDORi26-c4kKpy2",
       "name": "hyperframes-agent-plugin.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 95,
-      "digest": "sha256:150d1034ba5b8ec2033322d94ee5700b9aa6dfa12e0a48ace182cff396cf2db6",
-      "download_count": 1,
-      "created_at": "2026-10-02T05:27:30Z",
-      "updated_at": "2026-10-02T05:27:30Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.108/hyperframes-agent-plugin.sha256"
+      "digest": "sha256:6a4bfe0fc21bcf8ded1dde53d2c027b956a99877b043fab3a54b8658500c6adf",
+      "download_count": 5,
+      "created_at": "2026-10-03T00:18:58Z",
+      "updated_at": "2026-10-03T00:18:58Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/604878889",
-      "id": 604878889,
-      "node_id": "RA_kwDORi26-c4kDbgp",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/606772405",
+      "id": 606772405,
+      "node_id": "RA_kwDORi26-c4kKpy1",
       "name": "hyperframes-agent-plugin.zip",
       "label": "",
       "uploader": {
@@ -137,15 +137,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 11871359,
-      "digest": "sha256:63e591013c67e1411d92e449f34e9fbe36fd4645a97e774e5603f2da5785f3c9",
-      "download_count": 1,
-      "created_at": "2026-10-02T05:27:30Z",
-      "updated_at": "2026-10-02T05:27:31Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.108/hyperframes-agent-plugin.zip"
+      "size": 11876386,
+      "digest": "sha256:b0d9f56d353e32977b7b5b4427b79f9088cd1c7033e5c3f7fb74184e4eafd23a",
+      "download_count": 14,
+      "created_at": "2026-10-03T00:18:58Z",
+      "updated_at": "2026-10-03T00:18:59Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.108",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.108",
-  "body": "# HyperFrames v0.8.108\n\nReleased on 2026-10-02.\n\nStudio gets four more audio parts: audible videos in preview, clip menu presets, loudness with voice ducking, and a waveform strip with peak marks. Undo now puts a moved element back at once, and a pick made just before a reload is kept.\n\n## Features\n\n- **Studio:** Waveform strip, clip light, peak marks and video beat source (5/8) ([824e4100c63](https://github.com/heygen-com/hyperframes/commit/824e4100c636d30ac7c3036d9f5276c50e31eea4), [#4817](https://github.com/heygen-com/hyperframes/pull/4817)).\n- **Studio:** Normalize loudness and duck under voice, with a limiter report (4/8) ([9244c47328e](https://github.com/heygen-com/hyperframes/commit/9244c47328e41e59034bd9bbec293fe3f7310cf6), [#4816](https://github.com/heygen-com/hyperframes/pull/4816)).\n- **Studio:** Speed presets, voice, look, crop presets and freeze frame in the clip menu (3/8) ([000ccd426a3](https://github.com/heygen-com/hyperframes/commit/000ccd426a3ecf700eff6f449e9f5eab42d393fd), [#4815](https://github.com/heygen-com/hyperframes/pull/4815)).\n- **Core:** Audible videos in preview web audio, audio groups, meters and carve (2/8) ([3c299acc7f6](https://github.com/heygen-com/hyperframes/commit/3c299acc7f6fd7f9802e808c41a34d8593473549), [#4814](https://github.com/heygen-com/hyperframes/pull/4814)).\n\n## Fixes\n\n- **Studio:** Keep a pick made just before a reload swaps the preview frame ([c967a055fb8](https://github.com/heygen-com/hyperframes/commit/c967a055fb8cd03ba4bd7cade6da8f5b12169f7b), [#4888](https://github.com/heygen-com/hyperframes/pull/4888)).\n- **Studio:** Undo paints a move or nudge back at once while its save is still running ([880b4c41b3c](https://github.com/heygen-com/hyperframes/commit/880b4c41b3c5708bd9a4317dab687c082219d3d6), [#4877](https://github.com/heygen-com/hyperframes/pull/4877)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.107...v0.8.108\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.114",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.114",
+  "body": "# HyperFrames v0.8.114\n\nReleased on 2026-10-02.\n\nRenaming a file in Studio now rewrites only the references that point at it, and keyframe edits no longer copy other animations' values. Manual edits also stay under 8 ms per frame, and Studio reads modern CSS colors.\n\n## Fixes\n\n- **Studio Server:** A rename rewrites only references that name the renamed path ([1168bb740d33](https://github.com/heygen-com/hyperframes/commit/1168bb740d336f366849c91308a3c2bbb850c570), [#4915](https://github.com/heygen-com/hyperframes/pull/4915)).\n- **Studio:** Parse modern CSS colors without a new dependency ([5c52f72399e2](https://github.com/heygen-com/hyperframes/commit/5c52f72399e21f8dcf3ede2bf2d24978c6522a94), [#3931](https://github.com/heygen-com/hyperframes/pull/3931)).\n- **Studio:** Keep a keyframe edit from copying other tweens' channels ([dc9c38efd8f6](https://github.com/heygen-com/hyperframes/commit/dc9c38efd8f6eadefb654d73f55e6e8671a1c8f4), [#4918](https://github.com/heygen-com/hyperframes/pull/4918)).\n- **CLI:** Select containing source frames in snapshots ([0d3d42320015](https://github.com/heygen-com/hyperframes/commit/0d3d423200153fa96d82ca5bc5b91565b87e5f29), [#4809](https://github.com/heygen-com/hyperframes/pull/4809)).\n- **Studio:** One GSAP-writes check that sees every keyframe form ([00b61b8b7611](https://github.com/heygen-com/hyperframes/commit/00b61b8b7611f68e3c52f29314015b00cd241bf6), [#4781](https://github.com/heygen-com/hyperframes/pull/4781)).\n- **CLI:** A background preview launch keeps only the server its own child started ([fd2f90c7d81d](https://github.com/heygen-com/hyperframes/commit/fd2f90c7d81d4c2a57848bb21e225cbccc66ec4f), [#4914](https://github.com/heygen-com/hyperframes/pull/4914)).\n\n## Performance\n\n- **Studio:** Manual edits stay under 8 ms per frame ([438ea9d59fd5](https://github.com/heygen-com/hyperframes/commit/438ea9d59fd5c1e720cc55311150dd3b25fab3db), [#4898](https://github.com/heygen-com/hyperframes/pull/4898)).\n\n## Internal\n\n- **Studio:** Give the real-Chrome undo test a time budget Windows can meet ([d5b56426c2a6](https://github.com/heygen-com/hyperframes/commit/d5b56426c2a65eddce404e74b04992fff2c2b87d), [#4912](https://github.com/heygen-com/hyperframes/pull/4912)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.113...v0.8.114\n"
 }
