@@ -14,15 +14,15 @@ x install hyperframes
 
 ## 代码洞察
 
-合计: **1,008,500** 行代码（覆盖前 5 种语言、共 **6097** 个文件）。
+合计: **1,016,597** 行代码（覆盖前 5 种语言、共 **6143** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 589,149 | 80,761 | 63,003 | 3038 |
-| JavaScript | 175,879 | 8,272 | 5,820 | 444 |
-| Tsx | 109,787 | 7,907 | 8,993 | 542 |
-| Html | 59,116 | 11,702 | 2,662 | 1009 |
-| Json | 57,375 | 0 | 47 | 1064 |
+| TypeScript | 594,872 | 79,711 | 63,342 | 3072 |
+| JavaScript | 176,464 | 8,303 | 5,857 | 449 |
+| Tsx | 111,396 | 7,850 | 9,173 | 547 |
+| Html | 59,238 | 11,703 | 2,662 | 1010 |
+| Json | 57,433 | 0 | 47 | 1065 |
 
 ## 源代码
 
@@ -31,36 +31,36 @@ x install hyperframes
 
 ## 发布
 
-- **最新版本**: `v0.8.114` (2026-10-03)
-- **最近提交**: 2026-10-03
+- **最新版本**: `v0.8.119` (2026-10-04)
+- **最近提交**: 2026-10-04
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 55,982 · **Fork**: 5,041 · **开放 issue**: 415 · **贡献者**: 112
+- **Star**: 56,372 · **Fork**: 5,067 · **开放 issue**: 416 · **贡献者**: 112
 
 ## 累计统计
 
-- **发布数**: 465 · **已合并 PR**: 3254 · **开放 PR**: 100 · **已关闭 issue**: 372 · **开放 issue**: 43 · **提交数**: 5144
+- **发布数**: 470 · **已合并 PR**: 3292 · **开放 PR**: 112 · **已关闭 issue**: 373 · **开放 issue**: 43 · **提交数**: 5184
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 89 | 908 | 98 | 45 | 33 | 978 |
-| last60d | 2026-08-04 | 100 | 1252 | 100 | 124 | 39 | 1377 |
-| 90d | 2026-07-05 | 100 | 1931 | 100 | 180 | 42 | 2597 |
-| last180d | 2026-04-06 | 100 | 3100 | 100 | 372 | 43 | 4346 |
-| 360d | 2025-10-08 | 100 | 3253 | 100 | 372 | 43 | 4557 |
-| last720d | 2024-10-13 | 100 | 3253 | 100 | 372 | 43 | 5144 |
+| 30d | 2026-09-04 | 93 | 900 | 110 | 43 | 33 | 0 |
+| last60d | 2026-08-05 | 100 | 1280 | 112 | 123 | 39 | 0 |
+| 90d | 2026-07-06 | 100 | 1933 | 112 | 179 | 42 | 0 |
+| last180d | 2026-04-07 | 100 | 3131 | 112 | 373 | 43 | 0 |
+| 360d | 2025-10-09 | 100 | 3291 | 112 | 373 | 43 | 0 |
+| last720d | 2024-10-14 | 100 | 3291 | 112 | 373 | 43 | 5184 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.json) | 726 B | `other` |
-| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.sha256) | 95 B | `other` |
-| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.114/hyperframes-agent-plugin.zip) | 11.3 MiB | `other` |
+| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.json) | 726 B | `other` |
+| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.sha256) | 95 B | `other` |
+| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.zip) | 11.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ hyperframes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T05:50:38Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:25:57Z._
