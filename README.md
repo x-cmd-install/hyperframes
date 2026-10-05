@@ -14,15 +14,15 @@ x install hyperframes
 
 ## Code insight
 
-Total: **1,016,597** lines of code across **6143** files in the top 5 languages.
+Total: **1,026,627** lines of code across **6194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 594,872 | 79,711 | 63,342 | 3072 |
-| JavaScript | 176,464 | 8,303 | 5,857 | 449 |
-| Tsx | 111,396 | 7,850 | 9,173 | 547 |
-| Html | 59,238 | 11,703 | 2,662 | 1010 |
-| Json | 57,433 | 0 | 47 | 1065 |
+| TypeScript | 601,298 | 79,810 | 63,993 | 3107 |
+| JavaScript | 177,617 | 8,358 | 5,924 | 456 |
+| Tsx | 113,205 | 7,889 | 9,353 | 554 |
+| Html | 59,277 | 11,705 | 2,662 | 1011 |
+| Json | 57,969 | 0 | 47 | 1066 |
 
 ## Source
 
@@ -31,36 +31,36 @@ Total: **1,016,597** lines of code across **6143** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.119` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Latest**: `v0.8.127` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 56,372 · **Forks**: 5,067 · **Open issues**: 416 · **Contributors**: 112
+- **Stars**: 56,880 · **Forks**: 5,104 · **Open issues**: 422 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 470 · **Merged PRs**: 3292 · **Open PRs**: 112 · **Closed issues**: 373 · **Open issues**: 43 · **Commits**: 5184
+- **Releases**: 478 · **Merged PRs**: 3340 · **Open PRs**: 113 · **Closed issues**: 373 · **Open issues**: 49 · **Commits**: 5240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 93 | 900 | 110 | 43 | 33 | 0 |
-| last60d | 2026-08-05 | 100 | 1280 | 112 | 123 | 39 | 0 |
-| 90d | 2026-07-06 | 100 | 1933 | 112 | 179 | 42 | 0 |
-| last180d | 2026-04-07 | 100 | 3131 | 112 | 373 | 43 | 0 |
-| 360d | 2025-10-09 | 100 | 3291 | 112 | 373 | 43 | 0 |
-| last720d | 2024-10-14 | 100 | 3291 | 112 | 373 | 43 | 5184 |
+| 30d | 2026-09-05 | 100 | 913 | 109 | 43 | 39 | 0 |
+| last60d | 2026-08-06 | 100 | 1316 | 113 | 119 | 45 | 0 |
+| 90d | 2026-07-07 | 100 | 1956 | 113 | 175 | 48 | 0 |
+| last180d | 2026-04-08 | 100 | 3176 | 113 | 373 | 49 | 0 |
+| 360d | 2025-10-10 | 100 | 3339 | 113 | 373 | 49 | 0 |
+| last720d | 2024-10-15 | 100 | 3339 | 113 | 373 | 49 | 5240 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.json) | 726 B | `other` |
-| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.sha256) | 95 B | `other` |
-| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.119/hyperframes-agent-plugin.zip) | 11.3 MiB | `other` |
+| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.8.127/hyperframes-agent-plugin.json) | 726 B | `other` |
+| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.127/hyperframes-agent-plugin.sha256) | 95 B | `other` |
+| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.127/hyperframes-agent-plugin.zip) | 11.3 MiB | `other` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:25:56Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:15:36Z._
