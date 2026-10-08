@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/405246464",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/405246464/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/405246464/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.139",
-  "id": 405246464,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/406486966",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/406486966/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/406486966/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.141",
+  "id": 406486966,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4YJ5IA",
-  "tag_name": "v0.8.139",
+  "node_id": "RE_kwDORi26-c4YOn-2",
+  "tag_name": "v0.8.141",
   "target_commitish": "main",
-  "name": "v0.8.139",
+  "name": "v0.8.141",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-07T00:06:22Z",
-  "updated_at": "2026-10-07T00:28:07Z",
-  "published_at": "2026-10-07T00:28:05Z",
+  "created_at": "2026-10-08T05:56:58Z",
+  "updated_at": "2026-10-08T06:23:56Z",
+  "published_at": "2026-10-08T06:23:54Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/617060412",
-      "id": 617060412,
-      "node_id": "RA_kwDORi26-c4kx5g8",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/620947327",
+      "id": 620947327,
+      "node_id": "RA_kwDORi26-c4lAud_",
       "name": "hyperframes-agent-plugin.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 726,
-      "digest": "sha256:1972988e454af25e38c654b1c007d6a2bcf27e6ea4d6115738ca7d306f282dd9",
-      "download_count": 6,
-      "created_at": "2026-10-07T00:28:07Z",
-      "updated_at": "2026-10-07T00:28:07Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.139/hyperframes-agent-plugin.json"
+      "digest": "sha256:9602cd98a2b90cf4d8f5efddff290bbe862aacaeca4c26f7c0caabc509e584e3",
+      "download_count": 0,
+      "created_at": "2026-10-08T06:23:55Z",
+      "updated_at": "2026-10-08T06:23:55Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.141/hyperframes-agent-plugin.json"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/617060413",
-      "id": 617060413,
-      "node_id": "RA_kwDORi26-c4kx5g9",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/620947329",
+      "id": 620947329,
+      "node_id": "RA_kwDORi26-c4lAueB",
       "name": "hyperframes-agent-plugin.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 95,
-      "digest": "sha256:5dfa85054ae09c5f56c72e1077bfb1ec28e7b4a6764c89f42c72e404fcd767ac",
-      "download_count": 5,
-      "created_at": "2026-10-07T00:28:07Z",
-      "updated_at": "2026-10-07T00:28:07Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.139/hyperframes-agent-plugin.sha256"
+      "digest": "sha256:64f6798b48917f892ba9a8c55a160f2ad4484361661511f04b9a631ed2024d67",
+      "download_count": 0,
+      "created_at": "2026-10-08T06:23:55Z",
+      "updated_at": "2026-10-08T06:23:55Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.141/hyperframes-agent-plugin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/617060411",
-      "id": 617060411,
-      "node_id": "RA_kwDORi26-c4kx5g7",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/620947326",
+      "id": 620947326,
+      "node_id": "RA_kwDORi26-c4lAud-",
       "name": "hyperframes-agent-plugin.zip",
       "label": "",
       "uploader": {
@@ -137,15 +137,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 11889098,
-      "digest": "sha256:dc0a8aea0c69bc1d10a9b86cfbed74e089e307d413f9ec64988414ce3cabd1ae",
-      "download_count": 22,
-      "created_at": "2026-10-07T00:28:07Z",
-      "updated_at": "2026-10-07T00:28:07Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.139/hyperframes-agent-plugin.zip"
+      "size": 11902130,
+      "digest": "sha256:85debfd9ce4440ab094da21e01398e871e224f5e4a36a9f7e3d00b7c173c9771",
+      "download_count": 0,
+      "created_at": "2026-10-08T06:23:55Z",
+      "updated_at": "2026-10-08T06:23:56Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.141/hyperframes-agent-plugin.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.139",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.139",
-  "body": "# HyperFrames v0.8.139\n\nReleased on 2026-10-06.\n\nBuilt-in transcription now runs inside the HyperFrames desktop app. `transcribe --json` streams words as they are heard, except with parakeet-mlx. Studio drags after a resize, undo or reload land where they were pressed.\n\n## Features\n\n- **CLI:** Stream heard words on the transcribe --json progress stream ([156e87766](https://github.com/heygen-com/hyperframes/commit/156e87766c77c8b9c680b7dc107f94b4ee734f17), [#5127](https://github.com/heygen-com/hyperframes/pull/5127)).\n\n## Fixes\n\n- **CLI:** Read the WAV in JS so Built-in transcription runs inside Electron ([f7bba2288](https://github.com/heygen-com/hyperframes/commit/f7bba2288dfcbfbf0c93c8c63caee1893a442b9d), [#5129](https://github.com/heygen-com/hyperframes/pull/5129)).\n- **Core:** Keep nested scenes in place during a drag when the root has no timeline ([d94708e53](https://github.com/heygen-com/hyperframes/commit/d94708e5312df021e1fdcac421f00ed3015f11bd), [#5115](https://github.com/heygen-com/hyperframes/pull/5115)).\n- **Core:** Renders keep a fromTo's from-only values from the frame it starts on ([755ab7d16](https://github.com/heygen-com/hyperframes/commit/755ab7d1657ff2c2b6e2bd712ffbfcab97a617f5), [#5125](https://github.com/heygen-com/hyperframes/pull/5125)).\n- **Studio:** Drags after a resize, undo or reload land where they were pressed ([dc244d765](https://github.com/heygen-com/hyperframes/commit/dc244d765c3e825e12d06311ad6d4f09b77be3f3), [#5088](https://github.com/heygen-com/hyperframes/pull/5088)).\n- **CLI:** Let parakeet-mlx detect the language and name the Parakeet install under auto ([34552a21d](https://github.com/heygen-com/hyperframes/commit/34552a21d20e688cfa7a62925c53dee9a2634eff), [#5124](https://github.com/heygen-com/hyperframes/pull/5124)).\n- **Studio:** A timeline jump no longer starts thumbnail loads it is about to cancel ([b9e511a76](https://github.com/heygen-com/hyperframes/commit/b9e511a7687a5b035a140325f2db3ddcb455cb5f), [#5085](https://github.com/heygen-com/hyperframes/pull/5085)).\n\n## Performance\n\n- **Studio:** Parse saved HTML once when syncing timeline length ([e8cfd6b73](https://github.com/heygen-com/hyperframes/commit/e8cfd6b73eaa792d5ebe8e3f0a8ef4d99c348d7e), [#5092](https://github.com/heygen-com/hyperframes/pull/5092)).\n\n## Catalog\n\n- **Registry:** Gooey split block with metaball goo and directional motion blur ([b50dead1d](https://github.com/heygen-com/hyperframes/commit/b50dead1da595786c4de5772332885781b288791), [#5123](https://github.com/heygen-com/hyperframes/pull/5123)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.138...v0.8.139\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.141",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.141",
+  "body": "# HyperFrames v0.8.141\n\nReleased on 2026-10-08.\n\nRenders no longer fail when a page links a Google font with axis values the family lacks. Studio previews of hard-to-play videos decode at their on-screen size.\n\n## Changes\n\n- A font whose Google Fonts link returns no usable faces now falls back to the standard weight request, so renders keep the font instead of failing. ([#5186](https://github.com/heygen-com/hyperframes/pull/5186)).\n- Unresolved-font errors carry structured diagnostics about which resolver step failed, without font names, URLs or page text. ([#5189](https://github.com/heygen-com/hyperframes/pull/5189)).\n- The player loads compositions using the document's own duration and reports the first author error. ([#5176](https://github.com/heygen-com/hyperframes/pull/5176)).\n- Studio decodes HEVC and ProRes previews at the size they appear on screen, so back-to-back 4K clips no longer flash the background. ([#5184](https://github.com/heygen-com/hyperframes/pull/5184)).\n- media-use can reach HeyGen through a host app's gateway with `HEYGEN_API_BASE`. ([#5181](https://github.com/heygen-com/hyperframes/pull/5181)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.140...v0.8.141\n"
 }
