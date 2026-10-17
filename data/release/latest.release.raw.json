@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/414467031",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/414467031/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/414467031/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.163",
-  "id": 414467031,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/415506183",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/415506183/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/415506183/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.8.167",
+  "id": 415506183,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4YtEPX",
-  "tag_name": "v0.8.163",
+  "node_id": "RE_kwDORi26-c4YxB8H",
+  "tag_name": "v0.8.167",
   "target_commitish": "main",
-  "name": "v0.8.163",
+  "name": "v0.8.167",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-16T01:52:29Z",
-  "updated_at": "2026-10-16T02:18:45Z",
-  "published_at": "2026-10-16T02:18:42Z",
+  "created_at": "2026-10-17T00:44:30Z",
+  "updated_at": "2026-10-17T01:11:07Z",
+  "published_at": "2026-10-17T01:11:04Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/645859077",
-      "id": 645859077,
-      "node_id": "RA_kwDORi26-c4mfwcF",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/649142757",
+      "id": 649142757,
+      "node_id": "RA_kwDORi26-c4msSHl",
       "name": "hyperframes-agent-plugin.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 726,
-      "digest": "sha256:da771f9417a106c4bfe22768cce1e270c7be56b963f75efcaed0b6ee46161ac5",
-      "download_count": 4,
-      "created_at": "2026-10-16T02:18:44Z",
-      "updated_at": "2026-10-16T02:18:44Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.163/hyperframes-agent-plugin.json"
+      "digest": "sha256:1671ff1ba3e87de88c414aadf0669afc0856b1d7ac4904c4ded76bac68c83123",
+      "download_count": 5,
+      "created_at": "2026-10-17T01:11:06Z",
+      "updated_at": "2026-10-17T01:11:06Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.167/hyperframes-agent-plugin.json"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/645859074",
-      "id": 645859074,
-      "node_id": "RA_kwDORi26-c4mfwcC",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/649142758",
+      "id": 649142758,
+      "node_id": "RA_kwDORi26-c4msSHm",
       "name": "hyperframes-agent-plugin.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 95,
-      "digest": "sha256:671de6b2a0dd746fd1f90353f95353f508bfe9ee667be867c992cdf9e55fc7e0",
-      "download_count": 5,
-      "created_at": "2026-10-16T02:18:44Z",
-      "updated_at": "2026-10-16T02:18:44Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.163/hyperframes-agent-plugin.sha256"
+      "digest": "sha256:490217b442e71d0cb1d29c5c835508a0c443bc131c1ec7d4c871907b1993671a",
+      "download_count": 1,
+      "created_at": "2026-10-17T01:11:06Z",
+      "updated_at": "2026-10-17T01:11:06Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.167/hyperframes-agent-plugin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/645859072",
-      "id": 645859072,
-      "node_id": "RA_kwDORi26-c4mfwcA",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/649142762",
+      "id": 649142762,
+      "node_id": "RA_kwDORi26-c4msSHq",
       "name": "hyperframes-agent-plugin.zip",
       "label": "",
       "uploader": {
@@ -137,15 +137,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 11920489,
-      "digest": "sha256:0a265bbde49a3ce8faf84c587a7f3b19116c0d8481904e826b92dd3cd5dbc15d",
-      "download_count": 13,
-      "created_at": "2026-10-16T02:18:44Z",
-      "updated_at": "2026-10-16T02:18:45Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.163/hyperframes-agent-plugin.zip"
+      "size": 11920490,
+      "digest": "sha256:f4a84034a913d114fe704f566d3b0656cca144c15ec6fc0f94ff9585c737b808",
+      "download_count": 15,
+      "created_at": "2026-10-17T01:11:06Z",
+      "updated_at": "2026-10-17T01:11:07Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.167/hyperframes-agent-plugin.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.163",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.163",
-  "body": "# HyperFrames v0.8.163\n\nReleased on 2026-10-16.\n\nWebsite captures keep inline SVG logos whole, and timed SVG clips hide outside their window. Publishing now asks you to log in when it needs an account.\n\n## Features\n\n- **CLI:** Judge text behind a transparent video by its decoded alpha in check ([cea8aa8a7de](https://github.com/heygen-com/hyperframes/commit/cea8aa8a7dee9d669e47e4b488213008bbe305cd), [#5657](https://github.com/heygen-com/hyperframes/pull/5657)).\n- **CLI:** Render telemetry reports how busy the machine's CPU was ([0e9f380c2e2](https://github.com/heygen-com/hyperframes/commit/0e9f380c2e2295db4b88945a77cfa81001ac5c27), [#5646](https://github.com/heygen-com/hyperframes/pull/5646)).\n\n## Fixes\n\n- **CLI:** Ask to log in when publishing needs an account ([917ee5d3134](https://github.com/heygen-com/hyperframes/commit/917ee5d31342f8c8a4a14659679762489cafe665), [#5670](https://github.com/heygen-com/hyperframes/pull/5670)).\n- **Core:** Timed svg clips hide outside their window ([1ee6754f710](https://github.com/heygen-com/hyperframes/commit/1ee6754f7106335cc5533f7205bd3b7949ddb887), [#5661](https://github.com/heygen-com/hyperframes/pull/5661)).\n- **CLI:** Capture writes inline SVG logos whole and parakeet takes long audio ([0d6bdd453bb](https://github.com/heygen-com/hyperframes/commit/0d6bdd453bbcfae2280cf2b66f0b6b5afccc10ba), [#5662](https://github.com/heygen-com/hyperframes/pull/5662)).\n- **CLI:** Skip runtime by-products when fingerprinting a skill bundle ([08ee1bd5ad5](https://github.com/heygen-com/hyperframes/commit/08ee1bd5ad59987a7f2525222683e24ca30971f9), [#5654](https://github.com/heygen-com/hyperframes/pull/5654)).\n\n## Internal\n\n- **Studio:** Re-run an edit accuracy shard on a fresh runner when its runner is too slow ([a403ea1e8b2](https://github.com/heygen-com/hyperframes/commit/a403ea1e8b283c6bdcbe21b5cab2a2a50b5f35f3), [#5659](https://github.com/heygen-com/hyperframes/pull/5659)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.162...v0.8.163\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.8.167",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.8.167",
+  "body": "# HyperFrames v0.8.167\n\nReleased on 2026-10-16.\n\nLong projects preview more smoothly: the preview's work now follows what is playing, not the total clip count. Bundling a project also stops freezing the app that runs it.\n\n## Fixes\n\n- **Core:** Bundling a project no longer blocks the host's thread on esbuild ([b1cf6e3c517](https://github.com/heygen-com/hyperframes/commit/b1cf6e3c517e227d1dca1b212e7637c19e502a64), [#5714](https://github.com/heygen-com/hyperframes/pull/5714)).\n- **CLI:** Page loads stop timing out while a busy machine's Chrome warms up ([41486b9725a](https://github.com/heygen-com/hyperframes/commit/41486b9725ab2aae4f457d75dcd625931d103bb3), [#5705](https://github.com/heygen-com/hyperframes/pull/5705)).\n\n## Performance\n\n- **Core:** Hold a clip at 0 inside a later scene until it is due ([13ea8349597](https://github.com/heygen-com/hyperframes/commit/13ea8349597bbcb874402d1771aea65766fd7ffc), [#5716](https://github.com/heygen-com/hyperframes/pull/5716)).\n- **Core:** A preview's composition scripts give the page a turn every 50 ms, not one long task ([12d8df37f4d](https://github.com/heygen-com/hyperframes/commit/12d8df37f4db8ccf019da32c97cc1352f8db9652), [#5713](https://github.com/heygen-com/hyperframes/pull/5713)).\n- **Lint:** Strip stylesheet comments once per canvas zoom scan ([0bff8342c38](https://github.com/heygen-com/hyperframes/commit/0bff8342c389c1841d3b8d858168700f13627e48), [#5712](https://github.com/heygen-com/hyperframes/pull/5712)).\n- **Core:** Preview runtime scales with what plays, not with the film's clip count ([d05bc4215d5](https://github.com/heygen-com/hyperframes/commit/d05bc4215d5757da86956217f4a8a4b2ab11b1fd), [#5674](https://github.com/heygen-com/hyperframes/pull/5674)).\n\n## Internal\n\n- **CLI:** Caption image test checks the close itself, not a reusable file number ([eace3d28b6c](https://github.com/heygen-com/hyperframes/commit/eace3d28b6cb721ec1f9a96d7d2ea76bf215551a), [#5707](https://github.com/heygen-com/hyperframes/pull/5707)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.8.166...v0.8.167\n"
 }
