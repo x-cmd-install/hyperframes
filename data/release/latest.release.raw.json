@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 726,
       "digest": "sha256:3071068e35acd0913949f22b54e18c764c62be60003a057e67d8525ff9cda571",
-      "download_count": 5,
+      "download_count": 47,
       "created_at": "2026-10-20T03:39:08Z",
       "updated_at": "2026-10-20T03:39:08Z",
       "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-agent-plugin.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:5c2a57adbc0bbf877505928201ad25157bce4d664512af4536cb694b6af66fc6",
-      "download_count": 4,
+      "download_count": 50,
       "created_at": "2026-10-20T03:39:08Z",
       "updated_at": "2026-10-20T03:39:08Z",
       "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-agent-plugin.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11934879,
       "digest": "sha256:d71cb4e6a9bdb1d2fbbaaa7a38f032eeaa4b848056a6d366679ec24671335423",
-      "download_count": 11,
+      "download_count": 144,
       "created_at": "2026-10-20T03:39:08Z",
       "updated_at": "2026-10-20T03:39:09Z",
       "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-agent-plugin.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:843a1689c7b64874fbb9fda0ac02477578c95f73fb684d644cb1199644903fd1",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-10-20T03:37:06Z",
       "updated_at": "2026-10-20T03:37:07Z",
       "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-lambda-handler.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 129250221,
       "digest": "sha256:547401886f6fd729e0e12ad07bdebfdaf990972c22efadcd6129ea1af6b8b525",
-      "download_count": 4,
+      "download_count": 32,
       "created_at": "2026-10-20T03:37:06Z",
       "updated_at": "2026-10-20T03:37:10Z",
       "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.8.181/hyperframes-lambda-handler.zip"
