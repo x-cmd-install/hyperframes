@@ -1,0 +1,182 @@
+about:
+  description: "Write HTML. Render video. Built for agents."
+  license: Apache-2.0
+  homepage: https://hyperframes.heygen.com
+  head: 3e795ec
+  archived: false
+  latestVersion: "v0.8.220"
+  latestRelease: "v0.8.220"
+  latestPrerelease: "v0.8.190-hdr.1"
+  collectedAt: 2026-10-30T06:20:25Z
+timeline:
+  created: 2026-03-10
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
+  lastPrerelease: 2026-10-25
+popularity:
+  star: 75593
+  watcher: 183
+  fork: 6879
+  release: 569
+  contributor: 150
+  pullRequest: 6151
+  issue: 607
+language:
+  TypeScript: 40731653
+  JavaScript: 3626541
+  Shell: 74635
+  CSS: 60377
+  Python: 38396
+  Dockerfile: 14624
+  HCL: 13206
+  PowerShell: 1613
+totalBytes: 44561045
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 100
+    mergedPR: 1397
+    openPR: 123
+    closedIssue: 134
+    openIssue: 66
+    commit: 1384
+  last60d:
+    since: 2026-08-31
+    release: 100
+    mergedPR: 2245
+    openPR: 136
+    closedIssue: 202
+    openIssue: 74
+    commit: 2297
+  last90d:
+    since: 2026-08-01
+    release: 100
+    mergedPR: 2619
+    openPR: 136
+    closedIssue: 289
+    openIssue: 76
+    commit: 2794
+  last180d:
+    since: 2026-05-03
+    release: 100
+    mergedPR: 4159
+    openPR: 136
+    closedIssue: 482
+    openIssue: 77
+    commit: 5296
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 4572
+    openPR: 136
+    closedIssue: 529
+    openIssue: 78
+    commit: 5864
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 4572
+    openPR: 136
+    closedIssue: 529
+    openIssue: 78
+    commit: 6473
+total:
+  release: 569
+  mergedPR: 4572
+  openPR: 136
+  closedIssue: 529
+  openIssue: 78
+  commit: 6473
+---
+path: /home/runner/.x-repo/github.com/heygen-com/hyperframes
+collectedAt: 2026-10-30T06:21:24Z
+loc:
+  TypeScript:
+    code: 757461
+    comments: 82071
+    blanks: 77120
+    files: 3851
+  JavaScript:
+    code: 169977
+    comments: 5418
+    blanks: 5233
+    files: 429
+  Tsx:
+    code: 118274
+    comments: 7936
+    blanks: 9745
+    files: 576
+  Json:
+    code: 57196
+    comments: 0
+    blanks: 47
+    files: 1136
+  Html:
+    code: 56296
+    comments: 10721
+    blanks: 2492
+    files: 952
+  Svg:
+    code: 4139
+    comments: 33
+    blanks: 536
+    files: 65
+  Jsx:
+    code: 4078
+    comments: 604
+    blanks: 160
+    files: 13
+  Sh:
+    code: 3417
+    comments: 684
+    blanks: 397
+    files: 32
+  Css:
+    code: 3330
+    comments: 331
+    blanks: 478
+    files: 15
+  Yaml:
+    code: 1277
+    comments: 163
+    blanks: 39
+    files: 4
+  Python:
+    code: 831
+    comments: 63
+    blanks: 161
+    files: 7
+  Hcl:
+    code: 255
+    comments: 54
+    blanks: 42
+    files: 5
+  Dockerfile:
+    code: 177
+    comments: 96
+    blanks: 28
+    files: 4
+  PowerShell:
+    code: 30
+    comments: 2
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 27463
+    blanks: 10910
+    files: 674
+  Text:
+    code: 0
+    comments: 10517
+    blanks: 2652
+    files: 66
+total:
+  code: 1411356
+  comments: 156792
+  blanks: 124671
+  files: 7830
+---
+
+---
