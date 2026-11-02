@@ -14,15 +14,15 @@ x install hyperframes
 
 ## Code insight
 
-Total: **1,191,938** lines of code across **7032** files in the top 5 languages.
+Total: **1,190,922** lines of code across **7029** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 772,518 | 82,697 | 78,143 | 3938 |
-| JavaScript | 170,187 | 5,430 | 5,243 | 429 |
-| Tsx | 118,328 | 7,939 | 9,744 | 577 |
-| Json | 57,250 | 0 | 47 | 1136 |
-| Html | 56,296 | 10,721 | 2,492 | 952 |
+| TypeScript | 772,090 | 82,458 | 78,196 | 3942 |
+| JavaScript | 170,238 | 5,430 | 5,250 | 429 |
+| Tsx | 118,555 | 7,940 | 9,764 | 578 |
+| Json | 57,200 | 0 | 47 | 1130 |
+| Html | 56,225 | 10,721 | 2,492 | 950 |
 
 ## Source
 
@@ -32,40 +32,40 @@ Total: **1,191,938** lines of code across **7032** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.226` (2026-11-01)
-- **Last commit**: 2026-11-01
+- **Latest**: `v0.9.0` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 76,681 · **Forks**: 7,017 · **Open issues**: 615 · **Contributors**: 150
+- **Stars**: 77,267 · **Forks**: 7,084 · **Open issues**: 616 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 575 · **Merged PRs**: 4677 · **Open PRs**: 130 · **Closed issues**: 541 · **Open issues**: 74 · **Commits**: 6578
+- **Releases**: 581 · **Merged PRs**: 4723 · **Open PRs**: 141 · **Closed issues**: 541 · **Open issues**: 75 · **Commits**: 6624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 100 | 1411 | 114 | 144 | 59 | 1177 |
-| last60d | 2026-09-02 | 100 | 2335 | 130 | 210 | 70 | 2274 |
-| 90d | 2026-08-03 | 100 | 2708 | 130 | 295 | 71 | 2708 |
-| last180d | 2026-05-05 | 100 | 4252 | 130 | 492 | 73 | 5284 |
-| 360d | 2025-11-06 | 100 | 4677 | 130 | 541 | 74 | 5969 |
-| last720d | 2024-11-11 | 100 | 4677 | 130 | 541 | 74 | 6578 |
+| 30d | 2026-10-03 | 100 | 1419 | 125 | 140 | 60 | 1223 |
+| last60d | 2026-09-03 | 100 | 2377 | 141 | 208 | 71 | 2320 |
+| 90d | 2026-08-04 | 100 | 2722 | 141 | 292 | 72 | 2754 |
+| last180d | 2026-05-06 | 100 | 4283 | 141 | 490 | 74 | 5330 |
+| 360d | 2025-11-07 | 100 | 4723 | 141 | 541 | 75 | 6015 |
+| last720d | 2024-11-12 | 100 | 4723 | 141 | 541 | 75 | 6624 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-agent-plugin.json) | 399 B | `other` |
-| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-agent-plugin.sha256) | 95 B | `other` |
-| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-agent-plugin.zip) | 2.1 MiB | `other` |
-| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-lambda-handler.sha256) | 97 B | `other` |
-| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-lambda-handler.zip) | 123.5 MiB | `other` |
-| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-lambda-video-arm64.oci.tar) | 233.6 MiB | `other` |
-| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.8.226/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
+| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.json) | 397 B | `other` |
+| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.sha256) | 95 B | `other` |
+| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.zip) | 2.1 MiB | `other` |
+| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-handler.sha256) | 97 B | `other` |
+| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-handler.zip) | 123.5 MiB | `other` |
+| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-video-arm64.oci.tar) | 233.6 MiB | `other` |
+| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:40:39Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:44:22Z._
