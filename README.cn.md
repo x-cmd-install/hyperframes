@@ -14,14 +14,14 @@ x install hyperframes
 
 ## 代码洞察
 
-合计: **1,190,922** 行代码（覆盖前 5 种语言、共 **7029** 个文件）。
+合计: **1,197,700** 行代码（覆盖前 5 种语言、共 **7065** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 772,090 | 82,458 | 78,196 | 3942 |
-| JavaScript | 170,238 | 5,430 | 5,250 | 429 |
-| Tsx | 118,555 | 7,940 | 9,764 | 578 |
-| Json | 57,200 | 0 | 47 | 1130 |
+| TypeScript | 778,748 | 82,518 | 78,625 | 3978 |
+| JavaScript | 170,314 | 5,436 | 5,251 | 429 |
+| Tsx | 118,557 | 7,940 | 9,765 | 578 |
+| Json | 57,239 | 0 | 47 | 1130 |
 | Html | 56,225 | 10,721 | 2,492 | 950 |
 
 ## 源代码
@@ -32,40 +32,40 @@ x install hyperframes
 
 ## 发布
 
-- **最新版本**: `v0.9.0` (2026-11-02)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v0.9.7` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 77,267 · **Fork**: 7,084 · **开放 issue**: 616 · **贡献者**: 150
+- **Star**: 77,909 · **Fork**: 7,169 · **开放 issue**: 620 · **贡献者**: 150
 
 ## 累计统计
 
-- **发布数**: 581 · **已合并 PR**: 4723 · **开放 PR**: 141 · **已关闭 issue**: 541 · **开放 issue**: 75 · **提交数**: 6624
+- **发布数**: 588 · **已合并 PR**: 4781 · **开放 PR**: 151 · **已关闭 issue**: 543 · **开放 issue**: 77 · **提交数**: 6682
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 100 | 1419 | 125 | 140 | 60 | 1223 |
-| last60d | 2026-09-03 | 100 | 2377 | 141 | 208 | 71 | 2320 |
-| 90d | 2026-08-04 | 100 | 2722 | 141 | 292 | 72 | 2754 |
-| last180d | 2026-05-06 | 100 | 4283 | 141 | 490 | 74 | 5330 |
-| 360d | 2025-11-07 | 100 | 4723 | 141 | 541 | 75 | 6015 |
-| last720d | 2024-11-12 | 100 | 4723 | 141 | 541 | 75 | 6624 |
+| 30d | 2026-10-04 | 100 | 1427 | 132 | 139 | 59 | 1281 |
+| last60d | 2026-09-04 | 100 | 2389 | 151 | 207 | 73 | 2378 |
+| 90d | 2026-08-05 | 100 | 2770 | 151 | 292 | 74 | 2812 |
+| last180d | 2026-05-07 | 100 | 4333 | 151 | 491 | 76 | 5388 |
+| 360d | 2025-11-08 | 100 | 4781 | 151 | 543 | 77 | 6073 |
+| last720d | 2024-11-13 | 100 | 4781 | 151 | 543 | 77 | 6682 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.json) | 397 B | `other` |
-| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.sha256) | 95 B | `other` |
-| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-agent-plugin.zip) | 2.1 MiB | `other` |
-| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-handler.sha256) | 97 B | `other` |
-| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-handler.zip) | 123.5 MiB | `other` |
-| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-video-arm64.oci.tar) | 233.6 MiB | `other` |
-| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.0/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
+| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-agent-plugin.json) | 397 B | `other` |
+| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-agent-plugin.sha256) | 95 B | `other` |
+| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-agent-plugin.zip) | 2.1 MiB | `other` |
+| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-lambda-handler.sha256) | 97 B | `other` |
+| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-lambda-handler.zip) | 123.5 MiB | `other` |
+| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-lambda-video-arm64.oci.tar) | 233.6 MiB | `other` |
+| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.7/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ hyperframes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:44:23Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:34:26Z._
