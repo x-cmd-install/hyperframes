@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/436077145",
-  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/436077145/assets",
-  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/436077145/assets{?name,label}",
-  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.19",
-  "id": 436077145,
+  "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/437969077",
+  "assets_url": "https://api.github.com/repos/heygen-com/hyperframes/releases/437969077/assets",
+  "upload_url": "https://uploads.github.com/repos/heygen-com/hyperframes/releases/437969077/assets{?name,label}",
+  "html_url": "https://github.com/heygen-com/hyperframes/releases/tag/v0.9.22",
+  "id": 437969077,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORi26-c4Z_gJZ",
-  "tag_name": "v0.9.19",
+  "node_id": "RE_kwDORi26-c4aGuC1",
+  "tag_name": "v0.9.22",
   "target_commitish": "main",
-  "name": "v0.9.19",
+  "name": "v0.9.22",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-06T03:19:54Z",
-  "updated_at": "2026-11-06T03:48:18Z",
-  "published_at": "2026-11-06T03:46:37Z",
+  "created_at": "2026-11-08T01:18:54Z",
+  "updated_at": "2026-11-08T02:15:22Z",
+  "published_at": "2026-11-08T01:47:29Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715808990",
-      "id": 715808990,
-      "node_id": "RA_kwDORi26-c4qqmDe",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722610144",
+      "id": 722610144,
+      "node_id": "RA_kwDORi26-c4rEifg",
       "name": "hyperframes-agent-plugin.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 420,
-      "digest": "sha256:46104be4f8b3fd2a2ab3d1c27e982b2a98c1e38db1bce8c0f937dd944cf6bbe5",
-      "download_count": 31,
-      "created_at": "2026-11-06T03:48:17Z",
-      "updated_at": "2026-11-06T03:48:17Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-agent-plugin.json"
+      "digest": "sha256:fbc25489654a73e08b93e9f7aa95affda11cbc3710838e23359df4c8e472ab8b",
+      "download_count": 7,
+      "created_at": "2026-11-08T02:15:21Z",
+      "updated_at": "2026-11-08T02:15:21Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-agent-plugin.json"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715808994",
-      "id": 715808994,
-      "node_id": "RA_kwDORi26-c4qqmDi",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722610148",
+      "id": 722610148,
+      "node_id": "RA_kwDORi26-c4rEifk",
       "name": "hyperframes-agent-plugin.sha256",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 95,
-      "digest": "sha256:6793667e649f29c3fd5ada1c18b779b99126459a710fef043b864586be3991b2",
-      "download_count": 38,
-      "created_at": "2026-11-06T03:48:17Z",
-      "updated_at": "2026-11-06T03:48:17Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-agent-plugin.sha256"
+      "digest": "sha256:8a052ee5465556dba868a2384866ec53a4e057964ec9b8b08c9282b0fce4adf8",
+      "download_count": 6,
+      "created_at": "2026-11-08T02:15:21Z",
+      "updated_at": "2026-11-08T02:15:21Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-agent-plugin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715808991",
-      "id": 715808991,
-      "node_id": "RA_kwDORi26-c4qqmDf",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722610143",
+      "id": 722610143,
+      "node_id": "RA_kwDORi26-c4rEiff",
       "name": "hyperframes-agent-plugin.zip",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 2217223,
-      "digest": "sha256:9ae106e16d598612f08c30aeac45316bf4469a63d17fa18d880080624a072ac0",
-      "download_count": 96,
-      "created_at": "2026-11-06T03:48:17Z",
-      "updated_at": "2026-11-06T03:48:18Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-agent-plugin.zip"
+      "size": 2223000,
+      "digest": "sha256:daf21f9e24f4ce7fdb71395b7ac31e1f157942f6d2489835731f4f62bd9a050c",
+      "download_count": 13,
+      "created_at": "2026-11-08T02:15:21Z",
+      "updated_at": "2026-11-08T02:15:22Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-agent-plugin.zip"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715805603",
-      "id": 715805603,
-      "node_id": "RA_kwDORi26-c4qqlOj",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722554328",
+      "id": 722554328,
+      "node_id": "RA_kwDORi26-c4rEU3Y",
       "name": "hyperframes-lambda-handler.sha256",
       "label": "",
       "uploader": {
@@ -174,16 +174,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 97,
-      "digest": "sha256:8a31a453d6815a1d4e65ae73f74cf312c9f7d247a4f0977bbd79da6d6d1feaac",
-      "download_count": 7,
-      "created_at": "2026-11-06T03:46:38Z",
-      "updated_at": "2026-11-06T03:46:39Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-lambda-handler.sha256"
+      "digest": "sha256:360ce0a9187586ba4da2adeb9f6f7645fe6d8aa99ebfd17c2469bd1509b43e7c",
+      "download_count": 4,
+      "created_at": "2026-11-08T01:47:30Z",
+      "updated_at": "2026-11-08T01:47:30Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-lambda-handler.sha256"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715805598",
-      "id": 715805598,
-      "node_id": "RA_kwDORi26-c4qqlOe",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722554327",
+      "id": 722554327,
+      "node_id": "RA_kwDORi26-c4rEU3X",
       "name": "hyperframes-lambda-handler.zip",
       "label": "",
       "uploader": {
@@ -209,17 +209,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 129948280,
-      "digest": "sha256:736b91db531d769137ca283c3fddd93ee8cfdb39ecfd379471b0f429a58e0486",
-      "download_count": 17,
-      "created_at": "2026-11-06T03:46:38Z",
-      "updated_at": "2026-11-06T03:46:42Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-lambda-handler.zip"
+      "size": 129961051,
+      "digest": "sha256:0e4702521afee21f2acc4ab2b42b44b46328afc05ab9954f67006d13174513f6",
+      "download_count": 7,
+      "created_at": "2026-11-08T01:47:30Z",
+      "updated_at": "2026-11-08T01:47:34Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-lambda-handler.zip"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715805764",
-      "id": 715805764,
-      "node_id": "RA_kwDORi26-c4qqlRE",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722554452",
+      "id": 722554452,
+      "node_id": "RA_kwDORi26-c4rEU5U",
       "name": "hyperframes-lambda-video-arm64.oci.tar",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "application/x-tar",
       "state": "uploaded",
-      "size": 245334016,
-      "digest": "sha256:5993a08fcc34539da3b06e1921c1e3e66189623cc12ae0d89942ac4ccc96e5f6",
-      "download_count": 10,
-      "created_at": "2026-11-06T03:46:43Z",
-      "updated_at": "2026-11-06T03:46:51Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-lambda-video-arm64.oci.tar"
+      "size": 245346304,
+      "digest": "sha256:09b6e79e3c6b632af98b8575b8933773c9ba799f6b7b70bf1292a8b01fe5612b",
+      "download_count": 7,
+      "created_at": "2026-11-08T01:47:35Z",
+      "updated_at": "2026-11-08T01:47:41Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-lambda-video-arm64.oci.tar"
     },
     {
-      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/715805763",
-      "id": 715805763,
-      "node_id": "RA_kwDORi26-c4qqlRD",
+      "url": "https://api.github.com/repos/heygen-com/hyperframes/releases/assets/722554451",
+      "id": 722554451,
+      "node_id": "RA_kwDORi26-c4rEU5T",
       "name": "hyperframes-lambda-video-arm64.sha256",
       "label": "",
       "uploader": {
@@ -282,14 +282,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 105,
-      "digest": "sha256:3190a30cddfa39c088d5cdb4870c72fa374740214afa1eb4ac764e81ac170861",
-      "download_count": 9,
-      "created_at": "2026-11-06T03:46:43Z",
-      "updated_at": "2026-11-06T03:46:43Z",
-      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.19/hyperframes-lambda-video-arm64.sha256"
+      "digest": "sha256:6fbe3a3aa75c311ef5a87c5eb7f831fffba8f1030f22a335994070dd8f781417",
+      "download_count": 4,
+      "created_at": "2026-11-08T01:47:35Z",
+      "updated_at": "2026-11-08T01:47:35Z",
+      "browser_download_url": "https://github.com/heygen-com/hyperframes/releases/download/v0.9.22/hyperframes-lambda-video-arm64.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.9.19",
-  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.9.19",
-  "body": "# HyperFrames v0.9.19\n\nReleased on 2026-11-06.\n\nA render now matches preview when a `set` interrupts a running tween, so it no longer comes out blank. `cloud render` also keeps going when a project uses a font with no file on this computer. It falls back to the next font in the stack, as a local render does, and names the missing font.\n\n## Fixes\n\n- **CLI:** A font missing from this computer no longer stops a cloud render, and is named ([b56e2c036](https://github.com/heygen-com/hyperframes/commit/b56e2c03669cc0515209b0f886594b36867eab02), [#7287](https://github.com/heygen-com/hyperframes/pull/7287)).\n- **Core:** A render lands where preview does when a set interrupts a tween ([6abc62a17](https://github.com/heygen-com/hyperframes/commit/6abc62a1796f7ebafd001dd13869a049f1f87dc5), [#7283](https://github.com/heygen-com/hyperframes/pull/7283)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.9.18...v0.9.19\n"
+  "tarball_url": "https://api.github.com/repos/heygen-com/hyperframes/tarball/v0.9.22",
+  "zipball_url": "https://api.github.com/repos/heygen-com/hyperframes/zipball/v0.9.22",
+  "body": "# HyperFrames v0.9.22\n\nReleased on 2026-11-08.\n\nStudio previews look sharper: scrubbing shows full-quality decoded frames, and seeking no longer drops to an incomplete picture. Renders also keep page timers on the film's schedule at any worker count.\n\n## Features\n\n- **Studio:** Scrub full-quality video with decoded preview frames ([b7157bdab](https://github.com/heygen-com/hyperframes/commit/b7157bdabbabb194f60126bca45cad21c263a7dc), [#7379](https://github.com/heygen-com/hyperframes/pull/7379)).\n\n## Fixes\n\n- **Producer:** Keep page timers on the film's schedule at every worker count ([fed14b016](https://github.com/heygen-com/hyperframes/commit/fed14b0161baa6edf170ba37e2fb4a0f4656a8f1), [#7390](https://github.com/heygen-com/hyperframes/pull/7390)).\n- **Core:** Retain complete preview pictures during native seeks ([b87a01f6a](https://github.com/heygen-com/hyperframes/commit/b87a01f6a851b0ca02bfad3acfd0c56398024267), [#7378](https://github.com/heygen-com/hyperframes/pull/7378)).\n\n## Internal\n\n- **Producer:** The injector budget test no longer leaves a no-op injector for later tests ([34118d8f2](https://github.com/heygen-com/hyperframes/commit/34118d8f20cf9682f119b157e89b2f3fe42cd4e4), [#7384](https://github.com/heygen-com/hyperframes/pull/7384)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.9.21...v0.9.22\n"
 }
