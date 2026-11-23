@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 
 [![x-cmd/install — hyperframes Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hyperframes.svg)](https://x-cmd.com/install/hyperframes)
 
@@ -14,15 +14,15 @@ x install hyperframes
 
 ## Code insight
 
-Total: **1,388,950** lines of code across **8012** files in the top 5 languages.
+Total: **1,398,831** lines of code across **8060** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 923,972 | 85,643 | 91,297 | 4751 |
-| JavaScript | 197,558 | 7,381 | 7,786 | 547 |
-| Tsx | 123,799 | 8,012 | 10,169 | 603 |
-| Json | 70,178 | 0 | 47 | 1150 |
-| Html | 56,575 | 10,721 | 2,502 | 961 |
+| TypeScript | 932,322 | 85,864 | 92,047 | 4792 |
+| JavaScript | 198,106 | 7,418 | 7,824 | 548 |
+| Tsx | 124,702 | 8,047 | 10,250 | 607 |
+| Json | 70,212 | 0 | 47 | 1150 |
+| Html | 56,621 | 10,721 | 2,502 | 963 |
 
 ## Source
 
@@ -32,40 +32,40 @@ Total: **1,388,950** lines of code across **8012** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.80` (2026-11-22)
-- **Last commit**: 2026-11-22
+- **Latest**: `v0.9.84` (2026-11-23)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 87,935 · **Forks**: 8,184 · **Open issues**: 716 · **Contributors**: 182
+- **Stars**: 88,505 · **Forks**: 8,238 · **Open issues**: 724 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 662 · **Merged PRs**: 5876 · **Open PRs**: 180 · **Closed issues**: 590 · **Open issues**: 126 · **Commits**: 7775
+- **Releases**: 666 · **Merged PRs**: 5975 · **Open PRs**: 175 · **Closed issues**: 593 · **Open issues**: 131 · **Commits**: 7869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 100 | 1757 | 157 | 86 | 87 | 1320 |
-| last60d | 2026-09-23 | 100 | 3033 | 177 | 213 | 119 | 2774 |
-| 90d | 2026-08-24 | 100 | 3608 | 180 | 283 | 122 | 3611 |
-| last180d | 2026-05-26 | 100 | 5161 | 180 | 484 | 125 | 5881 |
-| 360d | 2025-11-27 | 100 | 5876 | 180 | 590 | 126 | 7157 |
-| last720d | 2024-12-02 | 100 | 5876 | 180 | 590 | 126 | 7775 |
+| 30d | 2026-10-24 | 100 | 1792 | 152 | 72 | 91 | 0 |
+| last60d | 2026-09-24 | 100 | 3083 | 172 | 208 | 122 | 0 |
+| 90d | 2026-08-25 | 100 | 3699 | 175 | 280 | 127 | 0 |
+| last180d | 2026-05-27 | 100 | 5250 | 175 | 485 | 130 | 0 |
+| 360d | 2025-11-28 | 100 | 5975 | 175 | 593 | 131 | 0 |
+| last720d | 2024-12-03 | 100 | 5975 | 175 | 593 | 131 | 7869 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-agent-plugin.json) | 420 B | `other` |
-| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-agent-plugin.sha256) | 95 B | `other` |
-| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-agent-plugin.zip) | 2.2 MiB | `other` |
-| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-lambda-handler.sha256) | 97 B | `other` |
-| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-lambda-handler.zip) | 126.1 MiB | `other` |
-| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-lambda-video-arm64.oci.tar) | 377.6 MiB | `other` |
-| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.80/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
+| [hyperframes-agent-plugin.json](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-agent-plugin.json) | 420 B | `other` |
+| [hyperframes-agent-plugin.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-agent-plugin.sha256) | 95 B | `other` |
+| [hyperframes-agent-plugin.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-agent-plugin.zip) | 2.2 MiB | `other` |
+| [hyperframes-lambda-handler.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-lambda-handler.sha256) | 97 B | `other` |
+| [hyperframes-lambda-handler.zip](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-lambda-handler.zip) | 126.1 MiB | `other` |
+| [hyperframes-lambda-video-arm64.oci.tar](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-lambda-video-arm64.oci.tar) | 377.6 MiB | `other` |
+| [hyperframes-lambda-video-arm64.sha256](https://github.com/heygen-com/hyperframes/releases/download/v0.9.84/hyperframes-lambda-video-arm64.sha256) | 105 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for hyperframes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:23:57Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:19:24Z._
