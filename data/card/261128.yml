@@ -1,0 +1,182 @@
+about:
+  description: "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen."
+  license: Apache-2.0
+  homepage: https://hyperframes.studio
+  head: 61392db
+  archived: false
+  latestVersion: "v0.9.104"
+  latestRelease: "v0.9.104"
+  latestPrerelease: "v0.8.190-hdr.2"
+  collectedAt: 2026-11-28T08:29:48Z
+timeline:
+  created: 2026-03-10
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-18
+popularity:
+  star: 91701
+  watcher: 212
+  fork: 8557
+  release: 686
+  contributor: 184
+  pullRequest: 8236
+  issue: 730
+language:
+  TypeScript: 50604651
+  JavaScript: 4947667
+  Shell: 67419
+  CSS: 61107
+  Python: 45266
+  Dockerfile: 18646
+  HCL: 13748
+  PowerShell: 2676
+totalBytes: 55761180
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 100
+    mergedPR: 1788
+    openPR: 168
+    closedIssue: 42
+    openIssue: 82
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 100
+    mergedPR: 3242
+    openPR: 193
+    closedIssue: 207
+    openIssue: 120
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 100
+    mergedPR: 4050
+    openPR: 196
+    closedIssue: 273
+    openIssue: 128
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 5598
+    openPR: 196
+    closedIssue: 484
+    openIssue: 131
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 6366
+    openPR: 196
+    closedIssue: 598
+    openIssue: 132
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 6366
+    openPR: 196
+    closedIssue: 598
+    openIssue: 132
+    commit: 8254
+total:
+  release: 686
+  mergedPR: 6373
+  openPR: 201
+  closedIssue: 598
+  openIssue: 132
+  commit: 8254
+---
+path: /home/runner/.x-repo/github.com/heygen-com/hyperframes
+collectedAt: 2026-11-28T08:30:32Z
+loc:
+  TypeScript:
+    code: 978070
+    comments: 87369
+    blanks: 95972
+    files: 5033
+  JavaScript:
+    code: 205368
+    comments: 7887
+    blanks: 8262
+    files: 582
+  Tsx:
+    code: 126160
+    comments: 8075
+    blanks: 10339
+    files: 614
+  Json:
+    code: 73420
+    comments: 0
+    blanks: 47
+    files: 1152
+  Html:
+    code: 56691
+    comments: 10721
+    blanks: 2502
+    files: 967
+  Jsx:
+    code: 4159
+    comments: 576
+    blanks: 158
+    files: 13
+  Svg:
+    code: 4135
+    comments: 33
+    blanks: 536
+    files: 65
+  Css:
+    code: 3415
+    comments: 356
+    blanks: 488
+    files: 15
+  Sh:
+    code: 2803
+    comments: 620
+    blanks: 328
+    files: 29
+  Yaml:
+    code: 1007
+    comments: 103
+    blanks: 36
+    files: 4
+  Python:
+    code: 977
+    comments: 67
+    blanks: 188
+    files: 8
+  Hcl:
+    code: 264
+    comments: 55
+    blanks: 44
+    files: 5
+  Dockerfile:
+    code: 221
+    comments: 107
+    blanks: 28
+    files: 4
+  PowerShell:
+    code: 45
+    comments: 5
+    blanks: 2
+    files: 2
+  Markdown:
+    code: 0
+    comments: 30639
+    blanks: 12319
+    files: 806
+  Text:
+    code: 0
+    comments: 11708
+    blanks: 2735
+    files: 72
+total:
+  code: 1692760
+  comments: 169009
+  blanks: 148646
+  files: 9371
+---
+
+---

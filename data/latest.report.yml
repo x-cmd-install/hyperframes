@@ -2,113 +2,113 @@ about:
   description: "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen."
   license: Apache-2.0
   homepage: https://hyperframes.studio
-  head: 113b4d8
+  head: 61392db
   archived: false
-  latestVersion: "v0.9.102"
-  latestRelease: "v0.9.102"
+  latestVersion: "v0.9.104"
+  latestRelease: "v0.9.104"
   latestPrerelease: "v0.8.190-hdr.2"
-  collectedAt: 2026-11-27T09:48:18Z
+  collectedAt: 2026-11-28T08:29:48Z
 timeline:
   created: 2026-03-10
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 2026-11-27
   lastRelease: 2026-11-27
   lastPrerelease: 2026-11-18
 popularity:
-  star: 91147
-  watcher: 211
-  fork: 8505
-  release: 684
-  contributor: 182
-  pullRequest: 8178
+  star: 91701
+  watcher: 212
+  fork: 8557
+  release: 686
+  contributor: 184
+  pullRequest: 8236
   issue: 730
 language:
-  TypeScript: 50413875
-  JavaScript: 4938640
+  TypeScript: 50604651
+  JavaScript: 4947667
   Shell: 67419
   CSS: 61107
   Python: 45266
   Dockerfile: 18646
   HCL: 13748
   PowerShell: 2676
-totalBytes: 55561377
+totalBytes: 55761180
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 100
-    mergedPR: 1792
-    openPR: 169
-    closedIssue: 44
-    openIssue: 85
-    commit: 1757
+    mergedPR: 1788
+    openPR: 168
+    closedIssue: 42
+    openIssue: 82
+    commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 100
-    mergedPR: 3226
-    openPR: 192
+    mergedPR: 3242
+    openPR: 193
     closedIssue: 207
-    openIssue: 121
-    commit: 3211
+    openIssue: 120
+    commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 100
-    mergedPR: 4011
-    openPR: 195
-    closedIssue: 272
-    openIssue: 129
-    commit: 4048
+    mergedPR: 4050
+    openPR: 196
+    closedIssue: 273
+    openIssue: 128
+    commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 100
-    mergedPR: 5568
-    openPR: 195
-    closedIssue: 483
-    openIssue: 132
-    commit: 6318
+    mergedPR: 5598
+    openPR: 196
+    closedIssue: 484
+    openIssue: 131
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 6324
-    openPR: 195
-    closedIssue: 597
-    openIssue: 133
-    commit: 7594
+    mergedPR: 6366
+    openPR: 196
+    closedIssue: 598
+    openIssue: 132
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 6324
-    openPR: 195
-    closedIssue: 597
-    openIssue: 133
-    commit: 8212
+    mergedPR: 6366
+    openPR: 196
+    closedIssue: 598
+    openIssue: 132
+    commit: 8254
 total:
-  release: 684
-  mergedPR: 6324
-  openPR: 195
-  closedIssue: 597
-  openIssue: 133
-  commit: 8212
+  release: 686
+  mergedPR: 6373
+  openPR: 201
+  closedIssue: 598
+  openIssue: 132
+  commit: 8254
 ---
 path: /home/runner/.x-repo/github.com/heygen-com/hyperframes
-collectedAt: 2026-11-27T09:49:19Z
+collectedAt: 2026-11-28T08:30:32Z
 loc:
   TypeScript:
-    code: 974191
-    comments: 87223
-    blanks: 95574
-    files: 5001
+    code: 978070
+    comments: 87369
+    blanks: 95972
+    files: 5033
   JavaScript:
-    code: 205134
-    comments: 7864
-    blanks: 8246
-    files: 581
+    code: 205368
+    comments: 7887
+    blanks: 8262
+    files: 582
   Tsx:
-    code: 125935
-    comments: 8069
-    blanks: 10320
-    files: 613
+    code: 126160
+    comments: 8075
+    blanks: 10339
+    files: 614
   Json:
-    code: 73262
+    code: 73420
     comments: 0
     blanks: 47
     files: 1152
@@ -164,20 +164,20 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 30550
-    blanks: 12287
-    files: 803
+    comments: 30639
+    blanks: 12319
+    files: 806
   Text:
     code: 0
     comments: 11708
     blanks: 2735
     files: 72
 total:
-  code: 1688264
-  comments: 168745
-  blanks: 148181
-  files: 9334
+  code: 1692760
+  comments: 169009
+  blanks: 148646
+  files: 9371
 ---
 
 ---
-{"id":460059939,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORi26-c4ba_Uj","tag_name":"v0.9.102","target_commitish":"638209cf14142f52139da30cbb12d32252cb8199","name":"v0.9.102","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T00:47:42Z","updated_at":"2026-11-27T01:27:24Z","published_at":"2026-11-27T01:25:43Z","assets":[{"id":798445742,"node_id":"RA_kwDORi26-c4vl1Cu","name":"hyperframes-agent-plugin.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":421,"digest":"sha256:f23aef4531464588b4b03d18fc16069b6543ead583ffa45e368a75fd298a506a","download_count":22,"created_at":"2026-11-27T01:27:23Z","updated_at":"2026-11-27T01:27:23Z"},{"id":798445734,"node_id":"RA_kwDORi26-c4vl1Cm","name":"hyperframes-agent-plugin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":95,"digest":"sha256:59433e25b372a5f25a5abb6cfe16e35c44c1a650b5a893f997ab99c1964af922","download_count":26,"created_at":"2026-11-27T01:27:23Z","updated_at":"2026-11-27T01:27:23Z"},{"id":798445740,"node_id":"RA_kwDORi26-c4vl1Cs","name":"hyperframes-agent-plugin.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":2329370,"digest":"sha256:1d8b84cc73eefcfe4742b8713c5dd59ba8fe8f0afa5f793de7d5f728820af6bc","download_count":68,"created_at":"2026-11-27T01:27:23Z","updated_at":"2026-11-27T01:27:24Z"},{"id":798441114,"node_id":"RA_kwDORi26-c4vlz6a","name":"hyperframes-lambda-handler.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":97,"digest":"sha256:9d5510d736dd6512a6ed4cccb91f9c5fe3b515d64c27ebe6e72ddce73392a1c9","download_count":9,"created_at":"2026-11-27T01:25:50Z","updated_at":"2026-11-27T01:25:50Z"},{"id":798440889,"node_id":"RA_kwDORi26-c4vlz25","name":"hyperframes-lambda-handler.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":132443521,"digest":"sha256:4e0aa3e96a6daf7ba2b72723e42cb21083e22685741a8e8181260500e2ef74dc","download_count":13,"created_at":"2026-11-27T01:25:45Z","updated_at":"2026-11-27T01:25:50Z"},{"id":798441157,"node_id":"RA_kwDORi26-c4vlz7F","name":"hyperframes-lambda-video-arm64.oci.tar","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":396219904,"digest":"sha256:379939468ad390326785aafdd9f0475ae5faf302aa6d8c63dd69922b4b60af33","download_count":13,"created_at":"2026-11-27T01:25:52Z","updated_at":"2026-11-27T01:26:05Z"},{"id":798441902,"node_id":"RA_kwDORi26-c4vl0Gu","name":"hyperframes-lambda-video-arm64.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:2e02e7ca829f11a3453b390a80ba84a2ac394f8144287a60eaaa565654a3aebf","download_count":8,"created_at":"2026-11-27T01:26:06Z","updated_at":"2026-11-27T01:26:07Z"}],"body":"# HyperFrames v0.9.102\n\nReleased on 2026-11-27.\n\nStudio stays responsive when a preview asks for paused frames or the disk holding a history lock stops answering. The CLI reports EPIPE crashes from browser pipes, and core starts safely when the page has no body yet.\n\n## Fixes\n\n- **CLI:** Report non-stdio EPIPE crashes and guard launched browser pipes ([bd477dc45](https://github.com/heygen-com/hyperframes/commit/bd477dc45215c70d98879bb5f3cb9f170184e7e9), [#8949](https://github.com/heygen-com/hyperframes/pull/8949)).\n- **Studio Server:** A history lock on a disk that stops answering no longer freezes the app ([281db3bd6](https://github.com/heygen-com/hyperframes/commit/281db3bd6dfd0cb914f44c3bcfd6f752c86d9c4f), [#8948](https://github.com/heygen-com/hyperframes/pull/8948)).\n- **Core:** Guard runtime init and paused video observer when document.body is null ([0c3bd551e](https://github.com/heygen-com/hyperframes/commit/0c3bd551e2cd8dd2d1dcb5540c8240e1120a7d48), [#8936](https://github.com/heygen-com/hyperframes/pull/8936)).\n- **Studio:** Keep the editor responsive when a preview asks for paused frames ([5d0d9945d](https://github.com/heygen-com/hyperframes/commit/5d0d9945d5c44182d8bd04ae1bebbaa257f1cc09), [#8943](https://github.com/heygen-com/hyperframes/pull/8943)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.9.101...v0.9.102\n"}
+{"id":460957769,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORi26-c4beahJ","tag_name":"v0.9.104","target_commitish":"3e77cf29e0159d313508c1a77b825de593cf8aec","name":"v0.9.104","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T18:12:24Z","updated_at":"2026-11-27T18:48:10Z","published_at":"2026-11-27T18:46:30Z","assets":[{"id":801646177,"node_id":"RA_kwDORi26-c4vyCZh","name":"hyperframes-agent-plugin.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":421,"digest":"sha256:5652c484aae64b9c2e53c55d55ebf0c7ecec4261e268d77f44de00318f147b7a","download_count":36,"created_at":"2026-11-27T18:48:10Z","updated_at":"2026-11-27T18:48:10Z"},{"id":801646175,"node_id":"RA_kwDORi26-c4vyCZf","name":"hyperframes-agent-plugin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":95,"digest":"sha256:f25f820b6924ddd6eab83fd12ca23b46862251134ee2c5a513a4a4fd0c299330","download_count":24,"created_at":"2026-11-27T18:48:10Z","updated_at":"2026-11-27T18:48:10Z"},{"id":801646174,"node_id":"RA_kwDORi26-c4vyCZe","name":"hyperframes-agent-plugin.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":2329373,"digest":"sha256:5e35b410eadc41c1311033940df0518c4269c306b409794ef5af4544b56187fe","download_count":82,"created_at":"2026-11-27T18:48:10Z","updated_at":"2026-11-27T18:48:10Z"},{"id":801641393,"node_id":"RA_kwDORi26-c4vyBOx","name":"hyperframes-lambda-handler.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":97,"digest":"sha256:b0ce5926994e8cdfb9b75ea370a78d0138dea49050ccca758bb90708091f2071","download_count":7,"created_at":"2026-11-27T18:46:37Z","updated_at":"2026-11-27T18:46:37Z"},{"id":801641200,"node_id":"RA_kwDORi26-c4vyBLw","name":"hyperframes-lambda-handler.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":132452719,"digest":"sha256:4aa120391c9cb1ee0233b134c2e041068d1097aca1d7d07f6668fcf17f05ea21","download_count":15,"created_at":"2026-11-27T18:46:32Z","updated_at":"2026-11-27T18:46:36Z"},{"id":801641456,"node_id":"RA_kwDORi26-c4vyBPw","name":"hyperframes-lambda-video-arm64.oci.tar","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":396224000,"digest":"sha256:b9a49df60556c528144d11e15b74f2a2fd94beb018a1158d963385d1495e97aa","download_count":9,"created_at":"2026-11-27T18:46:38Z","updated_at":"2026-11-27T18:46:48Z"},{"id":801641964,"node_id":"RA_kwDORi26-c4vyBXs","name":"hyperframes-lambda-video-arm64.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:b9aa9557d2531358b8c60cd1f43b439c68097b043648ff0645d81810319055a2","download_count":10,"created_at":"2026-11-27T18:46:49Z","updated_at":"2026-11-27T18:46:49Z"}],"body":"# HyperFrames v0.9.104\n\nReleased on 2026-11-27.\n\nA sealed canvas drag keeps its drop again, sealed previews load as fast as open ones, and Studio's server stops blocking on waveform reads. Timeline clips load media only from their own project, and a busy preview reload retries after the server's wait.\n\n## Features\n\n- **Core:** A frame-presented wait can be asked to run longer, up to 15 s ([4c92e37a7](https://github.com/heygen-com/hyperframes/commit/4c92e37a708662240c1a96d53d0565332a1aea8d), [#8976](https://github.com/heygen-com/hyperframes/pull/8976)).\n- **Parsers:** Export the size the renderer compiles a composition at ([a7cca1a2e](https://github.com/heygen-com/hyperframes/commit/a7cca1a2e47e7275de366623508e1cb075fa717f), [#8974](https://github.com/heygen-com/hyperframes/pull/8974)).\n\n## Fixes\n\n- **Share:** Wait for the host's export lookup, so a host can read its disk off its main thread ([cfaefdc56](https://github.com/heygen-com/hyperframes/commit/cfaefdc56dc93d74aeedc537123097f2ab74470b), [#8984](https://github.com/heygen-com/hyperframes/pull/8984)).\n- **CLI:** Billing add-credits offers a free account no add-on checkout the server refuses ([dfe324acb](https://github.com/heygen-com/hyperframes/commit/dfe324acb96c32697a9124d4bcce2b921630ce1e), [#8983](https://github.com/heygen-com/hyperframes/pull/8983)).\n- **Studio:** A preview reload the server answered busy asks again after its Retry-After ([bdcc53b4d](https://github.com/heygen-com/hyperframes/commit/bdcc53b4d51ca4ee2dd94e0d8675f6d7afcae777), [#8982](https://github.com/heygen-com/hyperframes/pull/8982)).\n- **Studio Server:** Cached waveform and preview reads never hold the server's thread ([32ec0b983](https://github.com/heygen-com/hyperframes/commit/32ec0b9835fddf4a58ac3d754cf27284dd784374), [#8971](https://github.com/heygen-com/hyperframes/pull/8971)).\n- **Studio:** A sealed canvas drag keeps its drop when the keyboard moves into the frame ([b4f47cec1](https://github.com/heygen-com/hyperframes/commit/b4f47cec1f0fc6ac1dff91de597423b7edc460c5), [#8978](https://github.com/heygen-com/hyperframes/pull/8978)).\n- **Core:** The preview runtime's editing port ignores later changes to MessagePort and window.parent ([23f665d0a](https://github.com/heygen-com/hyperframes/commit/23f665d0a2dd62dbd00a8e8eb51cd7d8e74a8279), [#8963](https://github.com/heygen-com/hyperframes/pull/8963)).\n- **Studio:** Sealed previews start loading as fast as open ones ([407c0efb7](https://github.com/heygen-com/hyperframes/commit/407c0efb7dd82dfff8e5ad7dcf1404fa643ff9fb), [#8972](https://github.com/heygen-com/hyperframes/pull/8972)).\n- **Studio:** A timeline clip loads media only from its own project's files ([413d37bad](https://github.com/heygen-com/hyperframes/commit/413d37badb84f29db4a463800753c3d703c9eb21), [#8970](https://github.com/heygen-com/hyperframes/pull/8970)).\n- **Parsers:** Css parsing ignores source-map comments in the stylesheet ([626644b2d](https://github.com/heygen-com/hyperframes/commit/626644b2da0ed86fe542264f3757e994ddf0fb11), [#8969](https://github.com/heygen-com/hyperframes/pull/8969)).\n\n## Catalog\n\n- Redirect renamed catalog items and moved guides to their current pages ([1cb750bba](https://github.com/heygen-com/hyperframes/commit/1cb750bbae3ab2aaecc19f300d8cc2a55adab08b), [#8975](https://github.com/heygen-com/hyperframes/pull/8975)).\n\n## Internal\n\n- **CLI:** The skills git-folder test runs git without the lookup's 4 s cut-off ([32274984f](https://github.com/heygen-com/hyperframes/commit/32274984f8e189ae471f1c962650ed910fb29933), [#8966](https://github.com/heygen-com/hyperframes/pull/8966)).\n\n## Full changelog\n\nhttps://github.com/heygen-com/hyperframes/compare/v0.9.103...v0.9.104\n"}
